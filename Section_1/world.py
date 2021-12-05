@@ -168,7 +168,9 @@ class SimulatorFullView(AbstractWorld):
         self._world_map = nx.read_gml(args.network_gml)
 
         self.number_of_nodes_world_map = len(self._world_map.nodes)
-        self.current_node_id = 0
+        self.current_leader_id = '0'
+        self.current_leader_round = '-1'
+        # self.is_active = True
 
 
 class SimulatorOnlyNeighbors(SimulatorFullView):
@@ -176,11 +178,10 @@ class SimulatorOnlyNeighbors(SimulatorFullView):
 
     def start_round(self, r):
         log(f'round {r} started!')
-        self.current_node_id = id_random_selector(self.number_of_nodes_world_map)[0]
-        log(f'-- new id {self.current_node_id} selected!')
-        # msg = str(r) + "#" + str(self.current_node_id) + "#" + str(0)
-        msg = HELLO_MSG
-        # log(f'-- new echo message {msg}')
+        self.current_leader_id = str(id_random_selector(self.number_of_nodes_world_map)[0])
+        self.current_leader_round = r
+        log(f'-- new id {self.current_leader_id} selected!')
+        msg = "wave" + "#" + self.current_leader_round + "#" + self.current_leader_id + "#" + str(0)
         for n in self.neighbors:
             self.send_message(n, msg)
 

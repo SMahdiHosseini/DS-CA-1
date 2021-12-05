@@ -1,0 +1,1255 @@
+[info] Hello from node1
+[info] I'm connected to nodes ['1', '2', '4', '5']
+[info] I have edges [('1', '1'), ('1', '2'), ('1', '4'), ('1', '5')]
+[info] round 0 started!
+[info] -- new id 1 selected!
+[info] send message to 1: wave#0#1#0
+[info] send message to 2: wave#0#1#0
+[info] send message to 4: wave#0#1#0
+[info] send message to 5: wave#0#1#0
+[info] message from 4: wave#0#1#0
+[info] message from 1: wave#0#1#0
+[info] message from 4: wave#1#7#0
+[info] send message to 1: wave#1#7#0
+[info] send message to 2: wave#1#7#0
+[info] send message to 5: wave#1#7#0
+[info] message from 2: wave#0#5#0
+[info] message from 4: wave#2#1#0
+[info] send message to 1: wave#2#1#0
+[info] send message to 2: wave#2#1#0
+[info] send message to 5: wave#2#1#0
+[info] message from 1: wave#1#7#0
+[info] message from 4: wave#3#2#0
+[info] send message to 1: wave#3#2#0
+[info] send message to 2: wave#3#2#0
+[info] send message to 5: wave#3#2#0
+[info] message from 5: wave#0#4#0
+[info] message from 1: wave#2#1#0
+[info] message from 4: wave#4#1#0
+[info] send message to 1: wave#4#1#0
+[info] send message to 2: wave#4#1#0
+[info] send message to 5: wave#4#1#0
+[info] message from 2: wave#0#9#0
+[info] message from 5: wave#1#7#1
+[info] message from 1: wave#3#2#0
+[info] message from 4: wave#5#5#0
+[info] send message to 1: wave#5#5#0
+[info] send message to 2: wave#5#5#0
+[info] send message to 5: wave#5#5#0
+[info] message from 5: wave#2#1#1
+[info] message from 5: wave#2#1#2
+[info] message from 1: wave#4#1#0
+[info] message from 4: wave#6#2#0
+[info] send message to 1: wave#6#2#0
+[info] send message to 2: wave#6#2#0
+[info] send message to 5: wave#6#2#0
+[info] message from 5: wave#3#2#1
+[info] message from 4: wave#7#8#0
+[info] send message to 1: wave#7#8#0
+[info] send message to 2: wave#7#8#0
+[info] send message to 5: wave#7#8#0
+[info] message from 1: wave#5#5#0
+[info] message from 5: wave#4#1#1
+[info] message from 4: wave#8#4#0
+[info] send message to 1: wave#8#4#0
+[info] send message to 2: wave#8#4#0
+[info] send message to 5: wave#8#4#0
+[info] message from 1: wave#6#2#0
+[info] message from 5: wave#5#5#1
+[info] message from 4: wave#9#1#0
+[info] send message to 1: wave#9#1#0
+[info] send message to 2: wave#9#1#0
+[info] send message to 5: wave#9#1#0
+[info] message from 1: wave#7#8#0
+[info] message from 4: wave#10#6#0
+[info] send message to 1: wave#10#6#0
+[info] send message to 2: wave#10#6#0
+[info] send message to 5: wave#10#6#0
+[info] message from 5: wave#6#2#1
+[info] message from 4: wave#11#2#0
+[info] send message to 1: wave#11#2#0
+[info] send message to 2: wave#11#2#0
+[info] send message to 5: wave#11#2#0
+[info] message from 1: wave#8#4#0
+[info] message from 4: wave#12#7#0
+[info] send message to 1: wave#12#7#0
+[info] send message to 2: wave#12#7#0
+[info] send message to 5: wave#12#7#0
+[info] message from 5: wave#7#8#1
+[info] message from 1: wave#9#1#0
+[info] message from 5: wave#8#4#1
+[info] message from 4: wave#13#9#0
+[info] send message to 1: wave#13#9#0
+[info] send message to 2: wave#13#9#0
+[info] send message to 5: wave#13#9#0
+[info] message from 4: wave#14#8#0
+[info] send message to 1: wave#14#8#0
+[info] send message to 2: wave#14#8#0
+[info] send message to 5: wave#14#8#0
+[info] message from 1: wave#10#6#0
+[info] message from 5: wave#9#1#1
+[info] message from 4: wave#15#4#0
+[info] send message to 1: wave#15#4#0
+[info] send message to 2: wave#15#4#0
+[info] send message to 5: wave#15#4#0
+[info] message from 4: wave#16#7#0
+[info] send message to 1: wave#16#7#0
+[info] send message to 2: wave#16#7#0
+[info] send message to 5: wave#16#7#0
+[info] message from 1: wave#11#2#0
+[info] message from 5: wave#10#6#1
+[info] message from 4: wave#17#4#0
+[info] send message to 1: wave#17#4#0
+[info] send message to 2: wave#17#4#0
+[info] send message to 5: wave#17#4#0
+[info] message from 1: wave#12#7#0
+[info] message from 4: wave#18#8#0
+[info] send message to 1: wave#18#8#0
+[info] send message to 2: wave#18#8#0
+[info] send message to 5: wave#18#8#0
+[info] message from 5: wave#11#2#1
+[info] message from 4: wave#19#9#0
+[info] send message to 1: wave#19#9#0
+[info] send message to 2: wave#19#9#0
+[info] send message to 5: wave#19#9#0
+[info] message from 1: wave#13#9#0
+[info] message from 5: wave#12#7#1
+[info] message from 4: wave#20#2#0
+[info] send message to 1: wave#20#2#0
+[info] send message to 2: wave#20#2#0
+[info] send message to 5: wave#20#2#0
+[info] message from 1: wave#14#8#0
+[info] message from 4: wave#21#8#0
+[info] send message to 1: wave#21#8#0
+[info] send message to 2: wave#21#8#0
+[info] send message to 5: wave#21#8#0
+[info] message from 5: wave#13#9#1
+[info] message from 2: wave#9#4#0
+[info] message from 1: wave#15#4#0
+[info] message from 4: wave#22#3#0
+[info] send message to 1: wave#22#3#0
+[info] send message to 2: wave#22#3#0
+[info] send message to 5: wave#22#3#0
+[info] message from 5: wave#14#8#1
+[info] message from 1: wave#16#7#0
+[info] message from 4: wave#23#2#0
+[info] send message to 1: wave#23#2#0
+[info] send message to 2: wave#23#2#0
+[info] send message to 5: wave#23#2#0
+[info] message from 2: wave#10#3#0
+[info] message from 5: wave#15#4#1
+[info] message from 4: wave#24#6#0
+[info] send message to 1: wave#24#6#0
+[info] send message to 2: wave#24#6#0
+[info] send message to 5: wave#24#6#0
+[info] message from 1: wave#17#4#0
+[info] message from 5: wave#16#7#1
+[info] message from 4: wave#25#3#0
+[info] send message to 1: wave#25#3#0
+[info] send message to 2: wave#25#3#0
+[info] send message to 5: wave#25#3#0
+[info] message from 1: wave#18#8#0
+[info] message from 4: wave#26#1#0
+[info] send message to 1: wave#26#1#0
+[info] send message to 2: wave#26#1#0
+[info] send message to 5: wave#26#1#0
+[info] message from 5: wave#17#4#1
+[info] message from 2: wave#11#7#0
+[info] message from 4: wave#27#7#0
+[info] send message to 1: wave#27#7#0
+[info] send message to 2: wave#27#7#0
+[info] send message to 5: wave#27#7#0
+[info] message from 1: wave#19#9#0
+[info] message from 5: wave#18#8#1
+[info] message from 4: wave#28#7#0
+[info] send message to 1: wave#28#7#0
+[info] send message to 2: wave#28#7#0
+[info] send message to 5: wave#28#7#0
+[info] message from 2: wave#12#3#0
+[info] message from 4: wave#29#6#0
+[info] send message to 1: wave#29#6#0
+[info] send message to 2: wave#29#6#0
+[info] send message to 5: wave#29#6#0
+[info] message from 5: wave#19#9#1
+[info] message from 1: wave#20#2#0
+[info] message from 4: wave#30#9#0
+[info] send message to 1: wave#30#9#0
+[info] send message to 2: wave#30#9#0
+[info] send message to 5: wave#30#9#0
+[info] message from 1: wave#21#8#0
+[info] message from 2: wave#13#6#0
+[info] message from 5: wave#20#2#1
+[info] message from 4: wave#31#5#0
+[info] send message to 1: wave#31#5#0
+[info] send message to 2: wave#31#5#0
+[info] send message to 5: wave#31#5#0
+[info] message from 1: wave#22#3#0
+[info] message from 4: wave#32#6#0
+[info] send message to 1: wave#32#6#0
+[info] send message to 2: wave#32#6#0
+[info] send message to 5: wave#32#6#0
+[info] message from 5: wave#21#8#1
+[info] message from 2: wave#14#2#0
+[info] message from 4: wave#33#3#0
+[info] send message to 1: wave#33#3#0
+[info] send message to 2: wave#33#3#0
+[info] send message to 5: wave#33#3#0
+[info] message from 1: wave#23#2#0
+[info] message from 5: wave#22#3#1
+[info] message from 4: wave#34#4#0
+[info] send message to 1: wave#34#4#0
+[info] send message to 2: wave#34#4#0
+[info] send message to 5: wave#34#4#0
+[info] message from 2: wave#15#2#0
+[info] message from 1: wave#24#6#0
+[info] message from 5: wave#23#2#1
+[info] message from 4: wave#35#6#0
+[info] send message to 1: wave#35#6#0
+[info] send message to 2: wave#35#6#0
+[info] send message to 5: wave#35#6#0
+[info] message from 1: wave#25#3#0
+[info] message from 4: wave#36#6#0
+[info] send message to 1: wave#36#6#0
+[info] send message to 2: wave#36#6#0
+[info] send message to 5: wave#36#6#0
+[info] message from 5: wave#24#6#1
+[info] message from 2: wave#16#4#0
+[info] message from 1: wave#26#1#0
+[info] message from 4: wave#37#6#0
+[info] send message to 1: wave#37#6#0
+[info] send message to 2: wave#37#6#0
+[info] send message to 5: wave#37#6#0
+[info] message from 5: wave#25#3#1
+[info] message from 2: wave#17#5#0
+[info] message from 4: wave#38#8#0
+[info] send message to 1: wave#38#8#0
+[info] send message to 2: wave#38#8#0
+[info] send message to 5: wave#38#8#0
+[info] message from 4: wave#39#1#0
+[info] send message to 1: wave#39#1#0
+[info] send message to 2: wave#39#1#0
+[info] send message to 5: wave#39#1#0
+[info] message from 1: wave#27#7#0
+[info] message from 5: wave#26#1#1
+[info] message from 4: wave#40#8#0
+[info] send message to 1: wave#40#8#0
+[info] send message to 2: wave#40#8#0
+[info] send message to 5: wave#40#8#0
+[info] message from 2: wave#18#6#0
+[info] message from 4: wave#41#5#0
+[info] send message to 1: wave#41#5#0
+[info] send message to 2: wave#41#5#0
+[info] send message to 5: wave#41#5#0
+[info] message from 1: wave#28#7#0
+[info] message from 5: wave#27#7#1
+[info] message from 4: wave#42#9#0
+[info] send message to 1: wave#42#9#0
+[info] send message to 2: wave#42#9#0
+[info] send message to 5: wave#42#9#0
+[info] message from 2: wave#19#9#0
+[info] message from 1: wave#29#6#0
+[info] message from 4: wave#43#7#0
+[info] send message to 1: wave#43#7#0
+[info] send message to 2: wave#43#7#0
+[info] send message to 5: wave#43#7#0
+[info] message from 5: wave#28#7#1
+[info] message from 4: wave#44#1#0
+[info] send message to 1: wave#44#1#0
+[info] send message to 2: wave#44#1#0
+[info] send message to 5: wave#44#1#0
+[info] message from 2: wave#20#2#0
+[info] message from 1: wave#30#9#0
+[info] message from 4: wave#45#3#0
+[info] send message to 1: wave#45#3#0
+[info] send message to 2: wave#45#3#0
+[info] send message to 5: wave#45#3#0
+[info] message from 5: wave#29#6#1
+[info] message from 4: wave#46#5#0
+[info] send message to 1: wave#46#5#0
+[info] send message to 2: wave#46#5#0
+[info] send message to 5: wave#46#5#0
+[info] message from 1: wave#31#5#0
+[info] message from 2: wave#21#7#0
+[info] message from 5: wave#30#9#1
+[info] message from 4: wave#47#7#0
+[info] send message to 1: wave#47#7#0
+[info] send message to 2: wave#47#7#0
+[info] send message to 5: wave#47#7#0
+[info] message from 4: wave#48#9#0
+[info] send message to 1: wave#48#9#0
+[info] send message to 2: wave#48#9#0
+[info] send message to 5: wave#48#9#0
+[info] message from 1: wave#32#6#0
+[info] message from 5: wave#31#5#1
+[info] message from 2: wave#22#4#0
+[info] message from 4: wave#49#3#0
+[info] send message to 1: wave#49#3#0
+[info] send message to 2: wave#49#3#0
+[info] send message to 5: wave#49#3#0
+[info] message from 1: wave#33#3#0
+[info] message from 5: wave#32#6#1
+[info] message from 4: wave#50#9#0
+[info] send message to 1: wave#50#9#0
+[info] send message to 2: wave#50#9#0
+[info] send message to 5: wave#50#9#0
+[info] message from 2: wave#23#1#0
+[info] message from 1: wave#34#4#0
+[info] message from 4: wave#51#2#0
+[info] send message to 1: wave#51#2#0
+[info] send message to 2: wave#51#2#0
+[info] send message to 5: wave#51#2#0
+[info] message from 5: wave#33#3#1
+[info] message from 4: wave#52#3#0
+[info] send message to 1: wave#52#3#0
+[info] send message to 2: wave#52#3#0
+[info] send message to 5: wave#52#3#0
+[info] message from 1: wave#35#6#0
+[info] message from 5: wave#34#4#1
+[info] message from 2: wave#24#1#0
+[info] message from 4: wave#53#9#0
+[info] send message to 1: wave#53#9#0
+[info] send message to 2: wave#53#9#0
+[info] send message to 5: wave#53#9#0
+[info] message from 1: wave#36#6#0
+[info] message from 4: wave#54#1#0
+[info] send message to 1: wave#54#1#0
+[info] send message to 2: wave#54#1#0
+[info] send message to 5: wave#54#1#0
+[info] message from 5: wave#35#6#1
+[info] message from 2: wave#25#5#0
+[info] message from 4: wave#55#5#0
+[info] send message to 1: wave#55#5#0
+[info] send message to 2: wave#55#5#0
+[info] send message to 5: wave#55#5#0
+[info] message from 5: wave#36#6#1
+[info] message from 1: wave#37#6#0
+[info] message from 4: wave#56#9#0
+[info] send message to 1: wave#56#9#0
+[info] send message to 2: wave#56#9#0
+[info] send message to 5: wave#56#9#0
+[info] message from 2: wave#26#3#0
+[info] message from 4: wave#57#2#0
+[info] send message to 1: wave#57#2#0
+[info] send message to 2: wave#57#2#0
+[info] send message to 5: wave#57#2#0
+[info] message from 1: wave#38#8#0
+[info] message from 5: wave#37#6#1
+[info] message from 2: wave#27#5#0
+[info] message from 4: wave#58#8#0
+[info] send message to 1: wave#58#8#0
+[info] send message to 2: wave#58#8#0
+[info] send message to 5: wave#58#8#0
+[info] message from 5: wave#38#8#1
+[info] message from 1: wave#39#1#0
+[info] message from 4: wave#59#6#0
+[info] send message to 1: wave#59#6#0
+[info] send message to 2: wave#59#6#0
+[info] send message to 5: wave#59#6#0
+[info] message from 2: wave#28#4#0
+[info] message from 4: wave#60#5#0
+[info] send message to 1: wave#60#5#0
+[info] send message to 2: wave#60#5#0
+[info] send message to 5: wave#60#5#0
+[info] message from 1: wave#40#8#0
+[info] message from 5: wave#39#1#1
+[info] message from 4: wave#61#5#0
+[info] send message to 1: wave#61#5#0
+[info] send message to 2: wave#61#5#0
+[info] send message to 5: wave#61#5#0
+[info] message from 1: wave#41#5#0
+[info] message from 2: wave#29#9#0
+[info] message from 5: wave#40#8#1
+[info] message from 4: wave#62#2#0
+[info] send message to 1: wave#62#2#0
+[info] send message to 2: wave#62#2#0
+[info] send message to 5: wave#62#2#0
+[info] message from 1: wave#42#9#0
+[info] message from 4: wave#63#7#0
+[info] send message to 1: wave#63#7#0
+[info] send message to 2: wave#63#7#0
+[info] send message to 5: wave#63#7#0
+[info] message from 5: wave#41#5#1
+[info] message from 4: wave#64#6#0
+[info] send message to 1: wave#64#6#0
+[info] send message to 2: wave#64#6#0
+[info] send message to 5: wave#64#6#0
+[info] message from 2: wave#30#6#0
+[info] message from 1: wave#43#7#0
+[info] message from 4: wave#65#8#0
+[info] send message to 1: wave#65#8#0
+[info] send message to 2: wave#65#8#0
+[info] send message to 5: wave#65#8#0
+[info] message from 5: wave#42#9#1
+[info] message from 4: wave#66#4#0
+[info] send message to 1: wave#66#4#0
+[info] send message to 2: wave#66#4#0
+[info] send message to 5: wave#66#4#0
+[info] message from 1: wave#44#1#0
+[info] message from 2: wave#31#8#0
+[info] message from 5: wave#43#7#1
+[info] message from 4: wave#67#8#0
+[info] send message to 1: wave#67#8#0
+[info] send message to 2: wave#67#8#0
+[info] send message to 5: wave#67#8#0
+[info] message from 1: wave#45#3#0
+[info] message from 5: wave#44#1#1
+[info] message from 4: wave#68#1#0
+[info] send message to 1: wave#68#1#0
+[info] send message to 2: wave#68#1#0
+[info] send message to 5: wave#68#1#0
+[info] message from 2: wave#32#1#0
+[info] message from 1: wave#46#5#0
+[info] message from 5: wave#45#3#1
+[info] message from 4: wave#69#2#0
+[info] send message to 1: wave#69#2#0
+[info] send message to 2: wave#69#2#0
+[info] send message to 5: wave#69#2#0
+[info] message from 4: wave#70#4#0
+[info] send message to 1: wave#70#4#0
+[info] send message to 2: wave#70#4#0
+[info] send message to 5: wave#70#4#0
+[info] message from 2: wave#33#9#0
+[info] message from 1: wave#47#7#0
+[info] message from 5: wave#46#5#1
+[info] message from 4: wave#71#3#0
+[info] send message to 1: wave#71#3#0
+[info] send message to 2: wave#71#3#0
+[info] send message to 5: wave#71#3#0
+[info] message from 1: wave#48#9#0
+[info] message from 2: wave#34#1#0
+[info] message from 5: wave#47#7#1
+[info] message from 4: wave#72#4#0
+[info] send message to 1: wave#72#4#0
+[info] send message to 2: wave#72#4#0
+[info] send message to 5: wave#72#4#0
+[info] message from 4: wave#73#5#0
+[info] send message to 1: wave#73#5#0
+[info] send message to 2: wave#73#5#0
+[info] send message to 5: wave#73#5#0
+[info] message from 1: wave#49#3#0
+[info] message from 5: wave#48#9#1
+[info] message from 2: wave#35#3#0
+[info] message from 1: wave#50#9#0
+[info] message from 4: wave#74#6#0
+[info] send message to 1: wave#74#6#0
+[info] send message to 2: wave#74#6#0
+[info] send message to 5: wave#74#6#0
+[info] message from 5: wave#49#3#1
+[info] message from 4: wave#75#2#0
+[info] send message to 1: wave#75#2#0
+[info] send message to 2: wave#75#2#0
+[info] send message to 5: wave#75#2#0
+[info] message from 1: wave#51#2#0
+[info] message from 2: wave#36#2#0
+[info] message from 5: wave#50#9#1
+[info] message from 4: wave#76#9#0
+[info] send message to 1: wave#76#9#0
+[info] send message to 2: wave#76#9#0
+[info] send message to 5: wave#76#9#0
+[info] message from 1: wave#52#3#0
+[info] message from 5: wave#51#2#1
+[info] message from 4: wave#77#8#0
+[info] send message to 1: wave#77#8#0
+[info] send message to 2: wave#77#8#0
+[info] send message to 5: wave#77#8#0
+[info] message from 2: wave#37#6#0
+[info] message from 4: wave#78#5#0
+[info] send message to 1: wave#78#5#0
+[info] send message to 2: wave#78#5#0
+[info] send message to 5: wave#78#5#0
+[info] message from 1: wave#53#9#0
+[info] message from 4: wave#79#9#0
+[info] send message to 1: wave#79#9#0
+[info] send message to 2: wave#79#9#0
+[info] send message to 5: wave#79#9#0
+[info] message from 5: wave#52#3#1
+[info] message from 2: wave#38#9#0
+[info] message from 4: wave#80#5#0
+[info] send message to 1: wave#80#5#0
+[info] send message to 2: wave#80#5#0
+[info] send message to 5: wave#80#5#0
+[info] message from 1: wave#54#1#0
+[info] message from 5: wave#53#9#1
+[info] message from 4: wave#81#4#0
+[info] send message to 1: wave#81#4#0
+[info] send message to 2: wave#81#4#0
+[info] send message to 5: wave#81#4#0
+[info] message from 2: wave#39#3#0
+[info] message from 1: wave#55#5#0
+[info] message from 4: wave#82#8#0
+[info] send message to 1: wave#82#8#0
+[info] send message to 2: wave#82#8#0
+[info] send message to 5: wave#82#8#0
+[info] message from 5: wave#54#1#1
+[info] message from 4: wave#83#4#0
+[info] send message to 1: wave#83#4#0
+[info] send message to 2: wave#83#4#0
+[info] send message to 5: wave#83#4#0
+[info] message from 1: wave#56#9#0
+[info] message from 5: wave#55#5#1
+[info] message from 2: wave#40#9#0
+[info] message from 4: wave#84#2#0
+[info] send message to 1: wave#84#2#0
+[info] send message to 2: wave#84#2#0
+[info] send message to 5: wave#84#2#0
+[info] message from 1: wave#57#2#0
+[info] message from 4: wave#85#7#0
+[info] send message to 1: wave#85#7#0
+[info] send message to 2: wave#85#7#0
+[info] send message to 5: wave#85#7#0
+[info] message from 5: wave#56#9#1
+[info] message from 1: wave#58#8#0
+[info] message from 2: wave#41#2#0
+[info] message from 5: wave#57#2#1
+[info] message from 4: wave#86#9#0
+[info] send message to 1: wave#86#9#0
+[info] send message to 2: wave#86#9#0
+[info] send message to 5: wave#86#9#0
+[info] message from 5: wave#58#8#1
+[info] message from 1: wave#59#6#0
+[info] message from 4: wave#87#6#0
+[info] send message to 1: wave#87#6#0
+[info] send message to 2: wave#87#6#0
+[info] send message to 5: wave#87#6#0
+[info] message from 2: wave#42#9#0
+[info] message from 4: wave#88#5#0
+[info] send message to 1: wave#88#5#0
+[info] send message to 2: wave#88#5#0
+[info] send message to 5: wave#88#5#0
+[info] message from 1: wave#60#5#0
+[info] message from 5: wave#59#6#1
+[info] message from 4: wave#89#1#0
+[info] send message to 1: wave#89#1#0
+[info] send message to 2: wave#89#1#0
+[info] send message to 5: wave#89#1#0
+[info] message from 2: wave#43#4#0
+[info] message from 4: wave#90#2#0
+[info] send message to 1: wave#90#2#0
+[info] send message to 2: wave#90#2#0
+[info] send message to 5: wave#90#2#0
+[info] message from 1: wave#61#5#0
+[info] message from 4: wave#91#7#0
+[info] send message to 1: wave#91#7#0
+[info] send message to 2: wave#91#7#0
+[info] send message to 5: wave#91#7#0
+[info] message from 5: wave#60#5#1
+[info] message from 1: wave#62#2#0
+[info] message from 4: wave#92#7#0
+[info] send message to 1: wave#92#7#0
+[info] send message to 2: wave#92#7#0
+[info] send message to 5: wave#92#7#0
+[info] message from 2: wave#44#1#0
+[info] message from 5: wave#61#5#1
+[info] message from 1: wave#63#7#0
+[info] message from 4: wave#93#2#0
+[info] send message to 1: wave#93#2#0
+[info] send message to 2: wave#93#2#0
+[info] send message to 5: wave#93#2#0
+[info] message from 5: wave#62#2#1
+[info] message from 4: wave#94#3#0
+[info] send message to 1: wave#94#3#0
+[info] send message to 2: wave#94#3#0
+[info] send message to 5: wave#94#3#0
+[info] message from 1: wave#64#6#0
+[info] message from 5: wave#63#7#1
+[info] message from 2: wave#45#3#0
+[info] message from 4: wave#95#7#0
+[info] send message to 1: wave#95#7#0
+[info] send message to 2: wave#95#7#0
+[info] send message to 5: wave#95#7#0
+[info] message from 1: wave#65#8#0
+[info] message from 4: wave#96#5#0
+[info] send message to 1: wave#96#5#0
+[info] send message to 2: wave#96#5#0
+[info] send message to 5: wave#96#5#0
+[info] message from 5: wave#64#6#1
+[info] message from 2: wave#46#1#0
+[info] message from 1: wave#66#4#0
+[info] message from 4: wave#97#6#0
+[info] send message to 1: wave#97#6#0
+[info] send message to 2: wave#97#6#0
+[info] send message to 5: wave#97#6#0
+[info] message from 5: wave#65#8#1
+[info] message from 4: wave#98#4#0
+[info] send message to 1: wave#98#4#0
+[info] send message to 2: wave#98#4#0
+[info] send message to 5: wave#98#4#0
+[info] message from 1: wave#67#8#0
+[info] message from 5: wave#66#4#1
+[info] message from 2: wave#47#7#0
+[info] message from 4: wave#99#3#0
+[info] send message to 1: wave#99#3#0
+[info] send message to 2: wave#99#3#0
+[info] send message to 5: wave#99#3#0
+[info] message from 1: wave#68#1#0
+[info] message from 5: wave#67#8#1
+[info] message from 4: wave#100#9#0
+[info] send message to 1: wave#100#9#0
+[info] send message to 2: wave#100#9#0
+[info] send message to 5: wave#100#9#0
+[info] message from 2: wave#48#8#0
+[info] message from 4: wave#101#8#0
+[info] send message to 1: wave#101#8#0
+[info] send message to 2: wave#101#8#0
+[info] send message to 5: wave#101#8#0
+[info] message from 1: wave#69#2#0
+[info] message from 5: wave#68#1#1
+[info] message from 4: wave#102#2#0
+[info] send message to 1: wave#102#2#0
+[info] send message to 2: wave#102#2#0
+[info] send message to 5: wave#102#2#0
+[info] message from 4: wave#103#6#0
+[info] send message to 1: wave#103#6#0
+[info] send message to 2: wave#103#6#0
+[info] send message to 5: wave#103#6#0
+[info] message from 1: wave#70#4#0
+[info] message from 2: wave#49#5#0
+[info] message from 5: wave#69#2#1
+[info] message from 4: wave#104#8#0
+[info] send message to 1: wave#104#8#0
+[info] send message to 2: wave#104#8#0
+[info] send message to 5: wave#104#8#0
+[info] message from 1: wave#71#3#0
+[info] message from 5: wave#70#4#1
+[info] message from 4: wave#105#2#0
+[info] send message to 1: wave#105#2#0
+[info] send message to 2: wave#105#2#0
+[info] send message to 5: wave#105#2#0
+[info] message from 2: wave#50#8#0
+[info] message from 4: wave#106#2#0
+[info] send message to 1: wave#106#2#0
+[info] send message to 2: wave#106#2#0
+[info] send message to 5: wave#106#2#0
+[info] message from 1: wave#72#4#0
+[info] message from 5: wave#71#3#1
+[info] message from 2: wave#51#5#0
+[info] message from 4: wave#107#5#0
+[info] send message to 1: wave#107#5#0
+[info] send message to 2: wave#107#5#0
+[info] send message to 5: wave#107#5#0
+[info] message from 1: wave#73#5#0
+[info] message from 5: wave#72#4#1
+[info] message from 4: wave#108#8#0
+[info] send message to 1: wave#108#8#0
+[info] send message to 2: wave#108#8#0
+[info] send message to 5: wave#108#8#0
+[info] message from 4: wave#109#1#0
+[info] send message to 1: wave#109#1#0
+[info] send message to 2: wave#109#1#0
+[info] send message to 5: wave#109#1#0
+[info] message from 2: wave#52#9#0
+[info] message from 1: wave#74#6#0
+[info] message from 5: wave#73#5#1
+[info] message from 4: wave#110#8#0
+[info] send message to 1: wave#110#8#0
+[info] send message to 2: wave#110#8#0
+[info] send message to 5: wave#110#8#0
+[info] message from 1: wave#75#2#0
+[info] message from 5: wave#74#6#1
+[info] message from 4: wave#111#3#0
+[info] send message to 1: wave#111#3#0
+[info] send message to 2: wave#111#3#0
+[info] send message to 5: wave#111#3#0
+[info] message from 2: wave#53#8#0
+[info] message from 4: wave#112#9#0
+[info] send message to 1: wave#112#9#0
+[info] send message to 2: wave#112#9#0
+[info] send message to 5: wave#112#9#0
+[info] message from 1: wave#76#9#0
+[info] message from 5: wave#75#2#1
+[info] message from 4: wave#113#6#0
+[info] send message to 1: wave#113#6#0
+[info] send message to 2: wave#113#6#0
+[info] send message to 5: wave#113#6#0
+[info] message from 2: wave#54#3#0
+[info] message from 4: wave#114#5#0
+[info] send message to 1: wave#114#5#0
+[info] send message to 2: wave#114#5#0
+[info] send message to 5: wave#114#5#0
+[info] message from 1: wave#77#8#0
+[info] message from 5: wave#76#9#1
+[info] message from 4: wave#115#4#0
+[info] send message to 1: wave#115#4#0
+[info] send message to 2: wave#115#4#0
+[info] send message to 5: wave#115#4#0
+[info] message from 2: wave#55#6#0
+[info] message from 1: wave#78#5#0
+[info] message from 5: wave#77#8#1
+[info] message from 4: wave#116#7#0
+[info] send message to 1: wave#116#7#0
+[info] send message to 2: wave#116#7#0
+[info] send message to 5: wave#116#7#0
+[info] message from 4: wave#117#7#0
+[info] send message to 1: wave#117#7#0
+[info] send message to 2: wave#117#7#0
+[info] send message to 5: wave#117#7#0
+[info] message from 1: wave#79#9#0
+[info] message from 2: wave#56#7#0
+[info] message from 5: wave#78#5#1
+[info] message from 4: wave#118#9#0
+[info] send message to 1: wave#118#9#0
+[info] send message to 2: wave#118#9#0
+[info] send message to 5: wave#118#9#0
+[info] message from 4: wave#119#8#0
+[info] send message to 1: wave#119#8#0
+[info] send message to 2: wave#119#8#0
+[info] send message to 5: wave#119#8#0
+[info] message from 1: wave#80#5#0
+[info] message from 2: wave#57#8#0
+[info] message from 5: wave#79#9#1
+[info] message from 4: wave#120#6#0
+[info] send message to 1: wave#120#6#0
+[info] send message to 2: wave#120#6#0
+[info] send message to 5: wave#120#6#0
+[info] message from 4: wave#121#1#0
+[info] send message to 1: wave#121#1#0
+[info] send message to 2: wave#121#1#0
+[info] send message to 5: wave#121#1#0
+[info] message from 1: wave#81#4#0
+[info] message from 5: wave#80#5#1
+[info] message from 2: wave#58#2#0
+[info] message from 4: wave#122#5#0
+[info] send message to 1: wave#122#5#0
+[info] send message to 2: wave#122#5#0
+[info] send message to 5: wave#122#5#0
+[info] message from 1: wave#82#8#0
+[info] message from 4: wave#123#8#0
+[info] send message to 1: wave#123#8#0
+[info] send message to 2: wave#123#8#0
+[info] send message to 5: wave#123#8#0
+[info] message from 5: wave#81#4#1
+[info] message from 2: wave#59#7#0
+[info] message from 4: wave#124#9#0
+[info] send message to 1: wave#124#9#0
+[info] send message to 2: wave#124#9#0
+[info] send message to 5: wave#124#9#0
+[info] message from 1: wave#83#4#0
+[info] message from 5: wave#82#8#1
+[info] message from 4: wave#125#5#0
+[info] send message to 1: wave#125#5#0
+[info] send message to 2: wave#125#5#0
+[info] send message to 5: wave#125#5#0
+[info] message from 2: wave#60#2#0
+[info] message from 1: wave#84#2#0
+[info] message from 4: wave#126#8#0
+[info] send message to 1: wave#126#8#0
+[info] send message to 2: wave#126#8#0
+[info] send message to 5: wave#126#8#0
+[info] message from 5: wave#83#4#1
+[info] message from 4: wave#127#6#0
+[info] send message to 1: wave#127#6#0
+[info] send message to 2: wave#127#6#0
+[info] send message to 5: wave#127#6#0
+[info] message from 1: wave#85#7#0
+[info] message from 5: wave#84#2#1
+[info] message from 4: wave#128#1#0
+[info] send message to 1: wave#128#1#0
+[info] send message to 2: wave#128#1#0
+[info] send message to 5: wave#128#1#0
+[info] message from 2: wave#61#1#0
+[info] message from 1: wave#86#9#0
+[info] message from 4: wave#129#9#0
+[info] send message to 1: wave#129#9#0
+[info] send message to 2: wave#129#9#0
+[info] send message to 5: wave#129#9#0
+[info] message from 5: wave#85#7#1
+[info] message from 2: wave#62#6#0
+[info] message from 4: wave#130#1#0
+[info] send message to 1: wave#130#1#0
+[info] send message to 2: wave#130#1#0
+[info] send message to 5: wave#130#1#0
+[info] message from 5: wave#86#9#1
+[info] message from 1: wave#87#6#0
+[info] message from 4: wave#131#4#0
+[info] send message to 1: wave#131#4#0
+[info] send message to 2: wave#131#4#0
+[info] send message to 5: wave#131#4#0
+[info] message from 2: wave#63#6#0
+[info] message from 1: wave#88#5#0
+[info] message from 4: wave#132#7#0
+[info] send message to 1: wave#132#7#0
+[info] send message to 2: wave#132#7#0
+[info] send message to 5: wave#132#7#0
+[info] message from 5: wave#87#6#1
+[info] message from 4: wave#133#5#0
+[info] send message to 1: wave#133#5#0
+[info] send message to 2: wave#133#5#0
+[info] send message to 5: wave#133#5#0
+[info] message from 1: wave#89#1#0
+[info] message from 5: wave#88#5#1
+[info] message from 2: wave#64#8#0
+[info] message from 4: wave#134#3#0
+[info] send message to 1: wave#134#3#0
+[info] send message to 2: wave#134#3#0
+[info] send message to 5: wave#134#3#0
+[info] message from 1: wave#90#2#0
+[info] message from 5: wave#89#1#1
+[info] message from 4: wave#135#3#0
+[info] send message to 1: wave#135#3#0
+[info] send message to 2: wave#135#3#0
+[info] send message to 5: wave#135#3#0
+[info] message from 4: wave#136#6#0
+[info] send message to 1: wave#136#6#0
+[info] send message to 2: wave#136#6#0
+[info] send message to 5: wave#136#6#0
+[info] message from 2: wave#65#7#0
+[info] message from 1: wave#91#7#0
+[info] message from 5: wave#90#2#1
+[info] message from 4: wave#137#6#0
+[info] send message to 1: wave#137#6#0
+[info] send message to 2: wave#137#6#0
+[info] send message to 5: wave#137#6#0
+[info] message from 1: wave#92#7#0
+[info] message from 5: wave#91#7#1
+[info] message from 4: wave#138#9#0
+[info] send message to 1: wave#138#9#0
+[info] send message to 2: wave#138#9#0
+[info] send message to 5: wave#138#9#0
+[info] message from 2: wave#66#6#0
+[info] message from 4: wave#139#4#0
+[info] send message to 1: wave#139#4#0
+[info] send message to 2: wave#139#4#0
+[info] send message to 5: wave#139#4#0
+[info] message from 1: wave#93#2#0
+[info] message from 5: wave#92#7#1
+[info] message from 4: wave#140#8#0
+[info] send message to 1: wave#140#8#0
+[info] send message to 2: wave#140#8#0
+[info] send message to 5: wave#140#8#0
+[info] message from 2: wave#67#7#0
+[info] message from 1: wave#94#3#0
+[info] message from 5: wave#93#2#1
+[info] message from 4: wave#141#6#0
+[info] send message to 1: wave#141#6#0
+[info] send message to 2: wave#141#6#0
+[info] send message to 5: wave#141#6#0
+[info] message from 4: wave#142#4#0
+[info] send message to 1: wave#142#4#0
+[info] send message to 2: wave#142#4#0
+[info] send message to 5: wave#142#4#0
+[info] message from 2: wave#68#9#0
+[info] message from 1: wave#95#7#0
+[info] message from 5: wave#94#3#1
+[info] message from 4: wave#143#1#0
+[info] send message to 1: wave#143#1#0
+[info] send message to 2: wave#143#1#0
+[info] send message to 5: wave#143#1#0
+[info] message from 1: wave#96#5#0
+[info] message from 4: wave#144#8#0
+[info] send message to 1: wave#144#8#0
+[info] send message to 2: wave#144#8#0
+[info] send message to 5: wave#144#8#0
+[info] message from 5: wave#95#7#1
+[info] message from 2: wave#69#6#0
+[info] message from 4: wave#145#5#0
+[info] send message to 1: wave#145#5#0
+[info] send message to 2: wave#145#5#0
+[info] send message to 5: wave#145#5#0
+[info] message from 1: wave#97#6#0
+[info] message from 5: wave#96#5#1
+[info] message from 4: wave#146#7#0
+[info] send message to 1: wave#146#7#0
+[info] send message to 2: wave#146#7#0
+[info] send message to 5: wave#146#7#0
+[info] message from 2: wave#70#1#0
+[info] message from 1: wave#98#4#0
+[info] message from 5: wave#97#6#1
+[info] message from 4: wave#147#8#0
+[info] send message to 1: wave#147#8#0
+[info] send message to 2: wave#147#8#0
+[info] send message to 5: wave#147#8#0
+[info] message from 2: wave#71#3#0
+[info] message from 4: wave#148#2#0
+[info] send message to 1: wave#148#2#0
+[info] send message to 2: wave#148#2#0
+[info] send message to 5: wave#148#2#0
+[info] message from 1: wave#99#3#0
+[info] message from 4: wave#149#3#0
+[info] send message to 1: wave#149#3#0
+[info] send message to 2: wave#149#3#0
+[info] send message to 5: wave#149#3#0
+[info] message from 5: wave#98#4#1
+[info] message from 2: wave#72#3#0
+[info] message from 1: wave#100#9#0
+[info] message from 4: wave#150#6#0
+[info] send message to 1: wave#150#6#0
+[info] send message to 2: wave#150#6#0
+[info] send message to 5: wave#150#6#0
+[info] message from 5: wave#99#3#1
+[info] message from 4: wave#151#1#0
+[info] send message to 1: wave#151#1#0
+[info] send message to 2: wave#151#1#0
+[info] send message to 5: wave#151#1#0
+[info] message from 1: wave#101#8#0
+[info] message from 4: wave#152#3#0
+[info] send message to 1: wave#152#3#0
+[info] send message to 2: wave#152#3#0
+[info] send message to 5: wave#152#3#0
+[info] message from 2: wave#73#5#0
+[info] message from 5: wave#100#9#1
+[info] message from 4: wave#153#2#0
+[info] send message to 1: wave#153#2#0
+[info] send message to 2: wave#153#2#0
+[info] send message to 5: wave#153#2#0
+[info] message from 1: wave#102#2#0
+[info] message from 5: wave#101#8#1
+[info] message from 4: wave#154#5#0
+[info] send message to 1: wave#154#5#0
+[info] send message to 2: wave#154#5#0
+[info] send message to 5: wave#154#5#0
+[info] message from 2: wave#74#2#0
+[info] message from 1: wave#103#6#0
+[info] message from 5: wave#102#2#1
+[info] message from 4: wave#155#8#0
+[info] send message to 1: wave#155#8#0
+[info] send message to 2: wave#155#8#0
+[info] send message to 5: wave#155#8#0
+[info] message from 4: wave#156#5#0
+[info] send message to 1: wave#156#5#0
+[info] send message to 2: wave#156#5#0
+[info] send message to 5: wave#156#5#0
+[info] message from 2: wave#75#8#0
+[info] message from 1: wave#104#8#0
+[info] message from 5: wave#103#6#1
+[info] message from 4: wave#157#5#0
+[info] send message to 1: wave#157#5#0
+[info] send message to 2: wave#157#5#0
+[info] send message to 5: wave#157#5#0
+[info] message from 4: wave#158#5#0
+[info] send message to 1: wave#158#5#0
+[info] send message to 2: wave#158#5#0
+[info] send message to 5: wave#158#5#0
+[info] message from 2: wave#76#1#0
+[info] message from 1: wave#105#2#0
+[info] message from 5: wave#104#8#1
+[info] message from 4: wave#159#2#0
+[info] send message to 1: wave#159#2#0
+[info] send message to 2: wave#159#2#0
+[info] send message to 5: wave#159#2#0
+[info] message from 1: wave#106#2#0
+[info] message from 4: wave#160#6#0
+[info] send message to 1: wave#160#6#0
+[info] send message to 2: wave#160#6#0
+[info] send message to 5: wave#160#6#0
+[info] message from 2: wave#77#4#0
+[info] message from 5: wave#105#2#1
+[info] message from 4: wave#161#2#0
+[info] send message to 1: wave#161#2#0
+[info] send message to 2: wave#161#2#0
+[info] send message to 5: wave#161#2#0
+[info] message from 1: wave#107#5#0
+[info] message from 5: wave#106#2#1
+[info] message from 4: wave#162#8#0
+[info] send message to 1: wave#162#8#0
+[info] send message to 2: wave#162#8#0
+[info] send message to 5: wave#162#8#0
+[info] message from 2: wave#78#9#0
+[info] message from 1: wave#108#8#0
+[info] message from 4: wave#163#8#0
+[info] send message to 1: wave#163#8#0
+[info] send message to 2: wave#163#8#0
+[info] send message to 5: wave#163#8#0
+[info] message from 5: wave#107#5#1
+[info] message from 1: wave#109#1#0
+[info] message from 4: wave#164#1#0
+[info] send message to 1: wave#164#1#0
+[info] send message to 2: wave#164#1#0
+[info] send message to 5: wave#164#1#0
+[info] message from 2: wave#79#8#0
+[info] message from 5: wave#108#8#1
+[info] message from 4: wave#165#3#0
+[info] send message to 1: wave#165#3#0
+[info] send message to 2: wave#165#3#0
+[info] send message to 5: wave#165#3#0
+[info] message from 1: wave#110#8#0
+[info] message from 4: wave#166#4#0
+[info] send message to 1: wave#166#4#0
+[info] send message to 2: wave#166#4#0
+[info] send message to 5: wave#166#4#0
+[info] message from 5: wave#109#1#1
+[info] message from 2: wave#80#8#0
+[info] message from 4: wave#167#5#0
+[info] send message to 1: wave#167#5#0
+[info] send message to 2: wave#167#5#0
+[info] send message to 5: wave#167#5#0
+[info] message from 1: wave#111#3#0
+[info] message from 5: wave#110#8#1
+[info] message from 2: wave#81#4#0
+[info] message from 4: wave#168#3#0
+[info] send message to 1: wave#168#3#0
+[info] send message to 2: wave#168#3#0
+[info] send message to 5: wave#168#3#0
+[info] message from 1: wave#112#9#0
+[info] message from 5: wave#111#3#1
+[info] message from 4: wave#169#7#0
+[info] send message to 1: wave#169#7#0
+[info] send message to 2: wave#169#7#0
+[info] send message to 5: wave#169#7#0
+[info] message from 1: wave#113#6#0
+[info] message from 2: wave#82#5#0
+[info] message from 4: wave#170#7#0
+[info] send message to 1: wave#170#7#0
+[info] send message to 2: wave#170#7#0
+[info] send message to 5: wave#170#7#0
+[info] message from 5: wave#112#9#1
+[info] message from 4: wave#171#8#0
+[info] send message to 1: wave#171#8#0
+[info] send message to 2: wave#171#8#0
+[info] send message to 5: wave#171#8#0
+[info] message from 1: wave#114#5#0
+[info] message from 2: wave#83#9#0
+[info] message from 4: wave#172#3#0
+[info] send message to 1: wave#172#3#0
+[info] send message to 2: wave#172#3#0
+[info] send message to 5: wave#172#3#0
+[info] message from 5: wave#113#6#1
+[info] message from 4: wave#173#9#0
+[info] send message to 1: wave#173#9#0
+[info] send message to 2: wave#173#9#0
+[info] send message to 5: wave#173#9#0
+[info] message from 1: wave#115#4#0
+[info] message from 5: wave#114#5#1
+[info] message from 2: wave#84#6#0
+[info] message from 4: wave#174#3#0
+[info] send message to 1: wave#174#3#0
+[info] send message to 2: wave#174#3#0
+[info] send message to 5: wave#174#3#0
+[info] message from 1: wave#116#7#0
+[info] message from 5: wave#115#4#1
+[info] message from 4: wave#175#3#0
+[info] send message to 1: wave#175#3#0
+[info] send message to 2: wave#175#3#0
+[info] send message to 5: wave#175#3#0
+[info] message from 1: wave#117#7#0
+[info] message from 5: wave#116#7#1
+[info] message from 2: wave#85#2#0
+[info] message from 4: wave#176#6#0
+[info] send message to 1: wave#176#6#0
+[info] send message to 2: wave#176#6#0
+[info] send message to 5: wave#176#6#0
+[info] message from 1: wave#118#9#0
+[info] message from 5: wave#117#7#1
+[info] message from 4: wave#177#2#0
+[info] send message to 1: wave#177#2#0
+[info] send message to 2: wave#177#2#0
+[info] send message to 5: wave#177#2#0
+[info] message from 2: wave#86#7#0
+[info] message from 1: wave#119#8#0
+[info] message from 4: wave#178#4#0
+[info] send message to 1: wave#178#4#0
+[info] send message to 2: wave#178#4#0
+[info] send message to 5: wave#178#4#0
+[info] message from 5: wave#118#9#1
+[info] message from 4: wave#179#8#0
+[info] send message to 1: wave#179#8#0
+[info] send message to 2: wave#179#8#0
+[info] send message to 5: wave#179#8#0
+[info] message from 1: wave#120#6#0
+[info] message from 2: wave#87#3#0
+[info] message from 5: wave#119#8#1
+[info] message from 4: wave#180#7#0
+[info] send message to 1: wave#180#7#0
+[info] send message to 2: wave#180#7#0
+[info] send message to 5: wave#180#7#0
+[info] message from 1: wave#121#1#0
+[info] message from 5: wave#120#6#1
+[info] message from 4: wave#181#1#0
+[info] send message to 1: wave#181#1#0
+[info] send message to 2: wave#181#1#0
+[info] send message to 5: wave#181#1#0
+[info] message from 1: wave#122#5#0
+[info] message from 2: wave#88#6#0
+[info] message from 4: wave#182#8#0
+[info] send message to 1: wave#182#8#0
+[info] send message to 2: wave#182#8#0
+[info] send message to 5: wave#182#8#0
+[info] message from 5: wave#121#1#1
+[info] message from 4: wave#183#6#0
+[info] send message to 1: wave#183#6#0
+[info] send message to 2: wave#183#6#0
+[info] send message to 5: wave#183#6#0
+[info] message from 1: wave#123#8#0
+[info] message from 2: wave#89#3#0
+[info] message from 4: wave#184#9#0
+[info] send message to 1: wave#184#9#0
+[info] send message to 2: wave#184#9#0
+[info] send message to 5: wave#184#9#0
+[info] message from 5: wave#122#5#1
+[info] message from 1: wave#124#9#0
+[info] message from 5: wave#123#8#1
+[info] message from 4: wave#185#2#0
+[info] send message to 1: wave#185#2#0
+[info] send message to 2: wave#185#2#0
+[info] send message to 5: wave#185#2#0
+[info] message from 2: wave#90#7#0
+[info] message from 4: wave#186#4#0
+[info] send message to 1: wave#186#4#0
+[info] send message to 2: wave#186#4#0
+[info] send message to 5: wave#186#4#0
+[info] message from 1: wave#125#5#0
+[info] message from 5: wave#124#9#1
+[info] message from 4: wave#187#5#0
+[info] send message to 1: wave#187#5#0
+[info] send message to 2: wave#187#5#0
+[info] send message to 5: wave#187#5#0
+[info] message from 1: wave#126#8#0
+[info] message from 2: wave#91#4#0
+[info] message from 5: wave#125#5#1
+[info] message from 4: wave#188#8#0
+[info] send message to 1: wave#188#8#0
+[info] send message to 2: wave#188#8#0
+[info] send message to 5: wave#188#8#0
+[info] message from 4: wave#189#7#0
+[info] send message to 1: wave#189#7#0
+[info] send message to 2: wave#189#7#0
+[info] send message to 5: wave#189#7#0
+[info] message from 1: wave#127#6#0
+[info] message from 5: wave#126#8#1
+[info] message from 4: wave#190#3#0
+[info] send message to 1: wave#190#3#0
+[info] send message to 2: wave#190#3#0
+[info] send message to 5: wave#190#3#0
+[info] message from 2: wave#92#8#0
+[info] message from 1: wave#128#1#0
+[info] message from 4: wave#191#7#0
+[info] send message to 1: wave#191#7#0
+[info] send message to 2: wave#191#7#0
+[info] send message to 5: wave#191#7#0
+[info] message from 5: wave#127#6#1
+[info] message from 4: wave#192#2#0
+[info] send message to 1: wave#192#2#0
+[info] send message to 2: wave#192#2#0
+[info] send message to 5: wave#192#2#0
+[info] message from 4: wave#193#3#0
+[info] send message to 1: wave#193#3#0
+[info] send message to 2: wave#193#3#0
+[info] send message to 5: wave#193#3#0
+[info] message from 1: wave#129#9#0
+[info] message from 5: wave#128#1#1
+[info] message from 2: wave#93#4#0
+[info] message from 4: wave#194#3#0
+[info] send message to 1: wave#194#3#0
+[info] send message to 2: wave#194#3#0
+[info] send message to 5: wave#194#3#0
+[info] message from 4: wave#195#9#0
+[info] send message to 1: wave#195#9#0
+[info] send message to 2: wave#195#9#0
+[info] send message to 5: wave#195#9#0
+[info] message from 5: wave#129#9#1
+[info] message from 1: wave#130#1#0
+[info] message from 2: wave#94#9#0
+[info] message from 4: wave#196#9#0
+[info] send message to 1: wave#196#9#0
+[info] send message to 2: wave#196#9#0
+[info] send message to 5: wave#196#9#0
+[info] message from 1: wave#131#4#0
+[info] message from 4: wave#197#1#0
+[info] send message to 1: wave#197#1#0
+[info] send message to 2: wave#197#1#0
+[info] send message to 5: wave#197#1#0
+[info] message from 5: wave#130#1#1
+[info] message from 2: wave#95#5#0
+[info] message from 1: wave#132#7#0
+[info] message from 5: wave#131#4#1
+[info] message from 4: wave#198#4#0
+[info] send message to 1: wave#198#4#0
+[info] send message to 2: wave#198#4#0
+[info] send message to 5: wave#198#4#0
+[info] message from 2: wave#96#3#0
+[info] message from 4: wave#199#8#0
+[info] send message to 1: wave#199#8#0
+[info] send message to 2: wave#199#8#0
+[info] send message to 5: wave#199#8#0
+[info] message from 1: wave#133#5#0
+[info] message from 5: wave#132#7#1
+[info] message from 4: wave#200#7#0
+[info] send message to 1: wave#200#7#0
+[info] send message to 2: wave#200#7#0
+[info] send message to 5: wave#200#7#0
+[info] message from 1: wave#134#3#0
+[info] message from 4: wave#201#3#0
+[info] send message to 1: wave#201#3#0
+[info] send message to 2: wave#201#3#0
+[info] send message to 5: wave#201#3#0
+[info] message from 2: wave#97#5#0
+[info] message from 5: wave#133#5#1
+[info] message from 4: wave#202#6#0
+[info] send message to 1: wave#202#6#0
+[info] send message to 2: wave#202#6#0
+[info] send message to 5: wave#202#6#0
+[info] message from 1: wave#135#3#0
+[info] message from 5: wave#134#3#1
+[info] message from 2: wave#98#9#0
+[info] message from 1: wave#136#6#0
+[info] message from 4: wave#203#7#0
+[info] send message to 1: wave#203#7#0
+[info] send message to 2: wave#203#7#0
+[info] send message to 5: wave#203#7#0
+[info] message from 5: wave#135#3#1
+[info] message from 4: wave#204#8#0
+[info] send message to 1: wave#204#8#0
+[info] send message to 2: wave#204#8#0
+[info] send message to 5: wave#204#8#0
+[info] message from 1: wave#137#6#0
+[info] message from 5: wave#136#6#1
+[info] message from 2: wave#99#2#0
+[info] message from 4: wave#205#4#0
+[info] send message to 1: wave#205#4#0
+[info] send message to 2: wave#205#4#0
+[info] send message to 5: wave#205#4#0
+[info] message from 1: wave#138#9#0
+[info] message from 4: wave#206#7#0
+[info] send message to 1: wave#206#7#0
+[info] send message to 2: wave#206#7#0
+[info] send message to 5: wave#206#7#0
+[info] message from 5: wave#137#6#1
+[info] message from 2: wave#100#4#0
+[info] message from 4: wave#207#2#0
+[info] send message to 1: wave#207#2#0
+[info] send message to 2: wave#207#2#0
+[info] send message to 5: wave#207#2#0
+[info] message from 1: wave#139#4#0
+[info] message from 5: wave#138#9#1
+[info] message from 4: wave#208#7#0
+[info] send message to 1: wave#208#7#0
+[info] send message to 2: wave#208#7#0
+[info] send message to 5: wave#208#7#0
+[info] message from 1: wave#140#8#0
+[info] message from 2: wave#101#6#0
+[info] message from 5: wave#139#4#1
+[info] message from 4: wave#209#1#0
+[info] send message to 1: wave#209#1#0
+[info] send message to 2: wave#209#1#0
+[info] send message to 5: wave#209#1#0
+[info] message from 1: wave#141#6#0
+[info] message from 4: wave#210#8#0
+[info] send message to 1: wave#210#8#0
+[info] send message to 2: wave#210#8#0
+[info] send message to 5: wave#210#8#0
+[info] message from 5: wave#140#8#1
+[info] message from 4: wave#211#6#0
+[info] send message to 1: wave#211#6#0
+[info] send message to 2: wave#211#6#0
+[info] send message to 5: wave#211#6#0
+[info] message from 2: wave#102#3#0
+[info] message from 1: wave#142#4#0
+[info] message from 4: wave#212#5#0
+[info] send message to 1: wave#212#5#0
+[info] send message to 2: wave#212#5#0
+[info] send message to 5: wave#212#5#0
+[info] message from 5: wave#141#6#1
+[info] message from 4: wave#213#7#0
+[info] send message to 1: wave#213#7#0
+[info] send message to 2: wave#213#7#0
+[info] send message to 5: wave#213#7#0
+[info] message from 2: wave#103#5#0
+[info] message from 1: wave#143#1#0
+[info] message from 4: wave#214#1#0
+[info] send message to 1: wave#214#1#0
+[info] send message to 2: wave#214#1#0
+[info] send message to 5: wave#214#1#0
+[info] message from 5: wave#142#4#1
+[info] message from 1: wave#144#8#0
+[info] message from 4: wave#215#8#0
+[info] send message to 1: wave#215#8#0
+[info] received keyboard interrupt

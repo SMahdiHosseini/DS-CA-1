@@ -1,0 +1,1079 @@
+[info] Hello from node5
+[info] I'm connected to nodes ['1', '5']
+[info] I have edges [('5', '1'), ('5', '5')]
+[info] round 0 started!
+[info] -- new id 4 selected!
+[info] send message to 1: wave#0#4#0
+[info] send message to 5: wave#0#4#0
+[info] message from 1: wave#0#1#0
+[info] message from 1: wave#1#7#0
+[info] send message to 5: wave#1#7#0
+[info] message from 5: wave#0#4#0
+[info] after round 1 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#1#7#1
+[info] message from 1: wave#2#1#0
+[info] send message to 5: wave#2#1#0
+[info] message from 5: wave#1#7#0
+[info] after round 2 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#2#1#1
+[info] message from 5: wave#2#1#0
+[info] after round 2 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#2#1#2
+[info] message from 1: wave#3#2#0
+[info] send message to 5: wave#3#2#0
+[info] message from 5: wave#3#2#0
+[info] after round 3 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#3#2#1
+[info] message from 1: wave#4#1#0
+[info] send message to 5: wave#4#1#0
+[info] message from 5: wave#4#1#0
+[info] after round 4 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#4#1#1
+[info] message from 1: wave#5#5#0
+[info] send message to 5: wave#5#5#0
+[info] message from 5: wave#5#5#0
+[info] after round 5 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#5#5#1
+[info] message from 1: wave#6#2#0
+[info] send message to 5: wave#6#2#0
+[info] message from 5: wave#6#2#0
+[info] after round 6 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#6#2#1
+[info] message from 1: wave#7#8#0
+[info] send message to 5: wave#7#8#0
+[info] message from 5: wave#7#8#0
+[info] after round 7 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#7#8#1
+[info] message from 1: wave#8#4#0
+[info] send message to 5: wave#8#4#0
+[info] message from 5: wave#8#4#0
+[info] after round 8 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#8#4#1
+[info] message from 1: wave#9#1#0
+[info] send message to 5: wave#9#1#0
+[info] message from 5: wave#9#1#0
+[info] after round 9 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#9#1#1
+[info] message from 1: wave#10#6#0
+[info] send message to 5: wave#10#6#0
+[info] message from 5: wave#10#6#0
+[info] after round 10 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#10#6#1
+[info] message from 1: wave#11#2#0
+[info] send message to 5: wave#11#2#0
+[info] message from 5: wave#11#2#0
+[info] after round 11 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#11#2#1
+[info] message from 1: wave#12#7#0
+[info] send message to 5: wave#12#7#0
+[info] message from 5: wave#12#7#0
+[info] after round 12 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#12#7#1
+[info] message from 1: wave#13#9#0
+[info] send message to 5: wave#13#9#0
+[info] message from 5: wave#13#9#0
+[info] after round 13 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#13#9#1
+[info] message from 1: wave#14#8#0
+[info] send message to 5: wave#14#8#0
+[info] message from 5: wave#14#8#0
+[info] after round 14 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#14#8#1
+[info] message from 1: wave#15#4#0
+[info] send message to 5: wave#15#4#0
+[info] message from 5: wave#15#4#0
+[info] after round 15 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#15#4#1
+[info] message from 1: wave#16#7#0
+[info] send message to 5: wave#16#7#0
+[info] message from 5: wave#16#7#0
+[info] after round 16 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#16#7#1
+[info] message from 1: wave#17#4#0
+[info] send message to 5: wave#17#4#0
+[info] message from 5: wave#17#4#0
+[info] after round 17 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#17#4#1
+[info] message from 1: wave#18#8#0
+[info] send message to 5: wave#18#8#0
+[info] message from 5: wave#18#8#0
+[info] after round 18 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#18#8#1
+[info] message from 1: wave#19#9#0
+[info] send message to 5: wave#19#9#0
+[info] message from 5: wave#19#9#0
+[info] after round 19 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#19#9#1
+[info] message from 1: wave#20#2#0
+[info] send message to 5: wave#20#2#0
+[info] message from 5: wave#20#2#0
+[info] after round 20 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#20#2#1
+[info] message from 1: wave#21#8#0
+[info] send message to 5: wave#21#8#0
+[info] message from 5: wave#21#8#0
+[info] after round 21 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#21#8#1
+[info] message from 1: wave#22#3#0
+[info] send message to 5: wave#22#3#0
+[info] message from 5: wave#22#3#0
+[info] after round 22 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#22#3#1
+[info] message from 1: wave#23#2#0
+[info] send message to 5: wave#23#2#0
+[info] message from 5: wave#23#2#0
+[info] after round 23 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#23#2#1
+[info] message from 1: wave#24#6#0
+[info] send message to 5: wave#24#6#0
+[info] message from 5: wave#24#6#0
+[info] after round 24 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#24#6#1
+[info] message from 1: wave#25#3#0
+[info] send message to 5: wave#25#3#0
+[info] message from 5: wave#25#3#0
+[info] after round 25 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#25#3#1
+[info] message from 1: wave#26#1#0
+[info] send message to 5: wave#26#1#0
+[info] message from 5: wave#26#1#0
+[info] after round 26 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#26#1#1
+[info] message from 1: wave#27#7#0
+[info] send message to 5: wave#27#7#0
+[info] message from 5: wave#27#7#0
+[info] after round 27 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#27#7#1
+[info] message from 1: wave#28#7#0
+[info] send message to 5: wave#28#7#0
+[info] message from 5: wave#28#7#0
+[info] after round 28 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#28#7#1
+[info] message from 1: wave#29#6#0
+[info] send message to 5: wave#29#6#0
+[info] message from 5: wave#29#6#0
+[info] after round 29 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#29#6#1
+[info] message from 1: wave#30#9#0
+[info] send message to 5: wave#30#9#0
+[info] message from 5: wave#30#9#0
+[info] after round 30 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#30#9#1
+[info] message from 1: wave#31#5#0
+[info] send message to 5: wave#31#5#0
+[info] message from 5: wave#31#5#0
+[info] after round 31 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#31#5#1
+[info] message from 1: wave#32#6#0
+[info] send message to 5: wave#32#6#0
+[info] message from 5: wave#32#6#0
+[info] after round 32 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#32#6#1
+[info] message from 1: wave#33#3#0
+[info] send message to 5: wave#33#3#0
+[info] message from 5: wave#33#3#0
+[info] after round 33 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#33#3#1
+[info] message from 1: wave#34#4#0
+[info] send message to 5: wave#34#4#0
+[info] message from 5: wave#34#4#0
+[info] after round 34 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#34#4#1
+[info] message from 1: wave#35#6#0
+[info] send message to 5: wave#35#6#0
+[info] message from 5: wave#35#6#0
+[info] after round 35 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#35#6#1
+[info] message from 1: wave#36#6#0
+[info] send message to 5: wave#36#6#0
+[info] message from 5: wave#36#6#0
+[info] after round 36 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#36#6#1
+[info] message from 1: wave#37#6#0
+[info] send message to 5: wave#37#6#0
+[info] message from 5: wave#37#6#0
+[info] after round 37 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#37#6#1
+[info] message from 1: wave#38#8#0
+[info] send message to 5: wave#38#8#0
+[info] message from 5: wave#38#8#0
+[info] after round 38 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#38#8#1
+[info] message from 1: wave#39#1#0
+[info] send message to 5: wave#39#1#0
+[info] message from 5: wave#39#1#0
+[info] after round 39 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#39#1#1
+[info] message from 1: wave#40#8#0
+[info] send message to 5: wave#40#8#0
+[info] message from 5: wave#40#8#0
+[info] after round 40 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#40#8#1
+[info] message from 1: wave#41#5#0
+[info] send message to 5: wave#41#5#0
+[info] message from 5: wave#41#5#0
+[info] after round 41 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#41#5#1
+[info] message from 1: wave#42#9#0
+[info] send message to 5: wave#42#9#0
+[info] message from 5: wave#42#9#0
+[info] after round 42 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#42#9#1
+[info] message from 1: wave#43#7#0
+[info] send message to 5: wave#43#7#0
+[info] message from 5: wave#43#7#0
+[info] after round 43 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#43#7#1
+[info] message from 1: wave#44#1#0
+[info] send message to 5: wave#44#1#0
+[info] message from 5: wave#44#1#0
+[info] after round 44 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#44#1#1
+[info] message from 1: wave#45#3#0
+[info] send message to 5: wave#45#3#0
+[info] message from 5: wave#45#3#0
+[info] after round 45 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#45#3#1
+[info] message from 1: wave#46#5#0
+[info] send message to 5: wave#46#5#0
+[info] message from 5: wave#46#5#0
+[info] after round 46 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#46#5#1
+[info] message from 1: wave#47#7#0
+[info] send message to 5: wave#47#7#0
+[info] message from 5: wave#47#7#0
+[info] after round 47 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#47#7#1
+[info] message from 1: wave#48#9#0
+[info] send message to 5: wave#48#9#0
+[info] message from 5: wave#48#9#0
+[info] after round 48 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#48#9#1
+[info] message from 1: wave#49#3#0
+[info] send message to 5: wave#49#3#0
+[info] message from 5: wave#49#3#0
+[info] after round 49 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#49#3#1
+[info] message from 1: wave#50#9#0
+[info] send message to 5: wave#50#9#0
+[info] message from 5: wave#50#9#0
+[info] after round 50 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#50#9#1
+[info] message from 1: wave#51#2#0
+[info] send message to 5: wave#51#2#0
+[info] message from 5: wave#51#2#0
+[info] after round 51 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#51#2#1
+[info] message from 1: wave#52#3#0
+[info] send message to 5: wave#52#3#0
+[info] message from 5: wave#52#3#0
+[info] after round 52 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#52#3#1
+[info] message from 1: wave#53#9#0
+[info] send message to 5: wave#53#9#0
+[info] message from 5: wave#53#9#0
+[info] after round 53 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#53#9#1
+[info] message from 1: wave#54#1#0
+[info] send message to 5: wave#54#1#0
+[info] message from 5: wave#54#1#0
+[info] after round 54 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#54#1#1
+[info] message from 1: wave#55#5#0
+[info] send message to 5: wave#55#5#0
+[info] message from 5: wave#55#5#0
+[info] after round 55 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#55#5#1
+[info] message from 1: wave#56#9#0
+[info] send message to 5: wave#56#9#0
+[info] message from 5: wave#56#9#0
+[info] after round 56 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#56#9#1
+[info] message from 1: wave#57#2#0
+[info] send message to 5: wave#57#2#0
+[info] message from 5: wave#57#2#0
+[info] after round 57 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#57#2#1
+[info] message from 1: wave#58#8#0
+[info] send message to 5: wave#58#8#0
+[info] message from 5: wave#58#8#0
+[info] after round 58 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#58#8#1
+[info] message from 1: wave#59#6#0
+[info] send message to 5: wave#59#6#0
+[info] message from 5: wave#59#6#0
+[info] after round 59 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#59#6#1
+[info] message from 1: wave#60#5#0
+[info] send message to 5: wave#60#5#0
+[info] message from 5: wave#60#5#0
+[info] after round 60 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#60#5#1
+[info] message from 1: wave#61#5#0
+[info] send message to 5: wave#61#5#0
+[info] message from 5: wave#61#5#0
+[info] after round 61 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#61#5#1
+[info] message from 1: wave#62#2#0
+[info] send message to 5: wave#62#2#0
+[info] message from 5: wave#62#2#0
+[info] after round 62 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#62#2#1
+[info] message from 1: wave#63#7#0
+[info] send message to 5: wave#63#7#0
+[info] message from 5: wave#63#7#0
+[info] after round 63 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#63#7#1
+[info] message from 1: wave#64#6#0
+[info] send message to 5: wave#64#6#0
+[info] message from 5: wave#64#6#0
+[info] after round 64 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#64#6#1
+[info] message from 1: wave#65#8#0
+[info] send message to 5: wave#65#8#0
+[info] message from 5: wave#65#8#0
+[info] after round 65 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#65#8#1
+[info] message from 1: wave#66#4#0
+[info] send message to 5: wave#66#4#0
+[info] message from 5: wave#66#4#0
+[info] after round 66 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#66#4#1
+[info] message from 1: wave#67#8#0
+[info] send message to 5: wave#67#8#0
+[info] message from 5: wave#67#8#0
+[info] after round 67 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#67#8#1
+[info] message from 1: wave#68#1#0
+[info] send message to 5: wave#68#1#0
+[info] message from 5: wave#68#1#0
+[info] after round 68 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#68#1#1
+[info] message from 1: wave#69#2#0
+[info] send message to 5: wave#69#2#0
+[info] message from 5: wave#69#2#0
+[info] after round 69 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#69#2#1
+[info] message from 1: wave#70#4#0
+[info] send message to 5: wave#70#4#0
+[info] message from 5: wave#70#4#0
+[info] after round 70 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#70#4#1
+[info] message from 1: wave#71#3#0
+[info] send message to 5: wave#71#3#0
+[info] message from 5: wave#71#3#0
+[info] after round 71 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#71#3#1
+[info] message from 1: wave#72#4#0
+[info] send message to 5: wave#72#4#0
+[info] message from 5: wave#72#4#0
+[info] after round 72 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#72#4#1
+[info] message from 1: wave#73#5#0
+[info] send message to 5: wave#73#5#0
+[info] message from 5: wave#73#5#0
+[info] after round 73 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#73#5#1
+[info] message from 1: wave#74#6#0
+[info] send message to 5: wave#74#6#0
+[info] message from 5: wave#74#6#0
+[info] after round 74 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#74#6#1
+[info] message from 1: wave#75#2#0
+[info] send message to 5: wave#75#2#0
+[info] message from 5: wave#75#2#0
+[info] after round 75 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#75#2#1
+[info] message from 1: wave#76#9#0
+[info] send message to 5: wave#76#9#0
+[info] message from 5: wave#76#9#0
+[info] after round 76 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#76#9#1
+[info] message from 1: wave#77#8#0
+[info] send message to 5: wave#77#8#0
+[info] message from 5: wave#77#8#0
+[info] after round 77 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#77#8#1
+[info] message from 1: wave#78#5#0
+[info] send message to 5: wave#78#5#0
+[info] message from 5: wave#78#5#0
+[info] after round 78 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#78#5#1
+[info] message from 1: wave#79#9#0
+[info] send message to 5: wave#79#9#0
+[info] message from 5: wave#79#9#0
+[info] after round 79 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#79#9#1
+[info] message from 1: wave#80#5#0
+[info] send message to 5: wave#80#5#0
+[info] message from 5: wave#80#5#0
+[info] after round 80 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#80#5#1
+[info] message from 1: wave#81#4#0
+[info] send message to 5: wave#81#4#0
+[info] message from 5: wave#81#4#0
+[info] after round 81 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#81#4#1
+[info] message from 1: wave#82#8#0
+[info] send message to 5: wave#82#8#0
+[info] message from 5: wave#82#8#0
+[info] after round 82 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#82#8#1
+[info] message from 1: wave#83#4#0
+[info] send message to 5: wave#83#4#0
+[info] message from 5: wave#83#4#0
+[info] after round 83 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#83#4#1
+[info] message from 1: wave#84#2#0
+[info] send message to 5: wave#84#2#0
+[info] message from 5: wave#84#2#0
+[info] after round 84 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#84#2#1
+[info] message from 1: wave#85#7#0
+[info] send message to 5: wave#85#7#0
+[info] message from 5: wave#85#7#0
+[info] after round 85 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#85#7#1
+[info] message from 1: wave#86#9#0
+[info] send message to 5: wave#86#9#0
+[info] message from 5: wave#86#9#0
+[info] after round 86 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#86#9#1
+[info] message from 1: wave#87#6#0
+[info] send message to 5: wave#87#6#0
+[info] message from 5: wave#87#6#0
+[info] after round 87 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#87#6#1
+[info] message from 1: wave#88#5#0
+[info] send message to 5: wave#88#5#0
+[info] message from 5: wave#88#5#0
+[info] after round 88 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#88#5#1
+[info] message from 1: wave#89#1#0
+[info] send message to 5: wave#89#1#0
+[info] message from 5: wave#89#1#0
+[info] after round 89 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#89#1#1
+[info] message from 1: wave#90#2#0
+[info] send message to 5: wave#90#2#0
+[info] message from 5: wave#90#2#0
+[info] after round 90 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#90#2#1
+[info] message from 1: wave#91#7#0
+[info] send message to 5: wave#91#7#0
+[info] message from 5: wave#91#7#0
+[info] after round 91 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#91#7#1
+[info] message from 1: wave#92#7#0
+[info] send message to 5: wave#92#7#0
+[info] message from 5: wave#92#7#0
+[info] after round 92 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#92#7#1
+[info] message from 1: wave#93#2#0
+[info] send message to 5: wave#93#2#0
+[info] message from 5: wave#93#2#0
+[info] after round 93 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#93#2#1
+[info] message from 1: wave#94#3#0
+[info] send message to 5: wave#94#3#0
+[info] message from 5: wave#94#3#0
+[info] after round 94 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#94#3#1
+[info] message from 1: wave#95#7#0
+[info] send message to 5: wave#95#7#0
+[info] message from 5: wave#95#7#0
+[info] after round 95 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#95#7#1
+[info] message from 1: wave#96#5#0
+[info] send message to 5: wave#96#5#0
+[info] message from 5: wave#96#5#0
+[info] after round 96 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#96#5#1
+[info] message from 1: wave#97#6#0
+[info] send message to 5: wave#97#6#0
+[info] message from 5: wave#97#6#0
+[info] after round 97 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#97#6#1
+[info] message from 1: wave#98#4#0
+[info] send message to 5: wave#98#4#0
+[info] message from 5: wave#98#4#0
+[info] after round 98 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#98#4#1
+[info] message from 1: wave#99#3#0
+[info] send message to 5: wave#99#3#0
+[info] message from 5: wave#99#3#0
+[info] after round 99 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#99#3#1
+[info] message from 1: wave#100#9#0
+[info] send message to 5: wave#100#9#0
+[info] message from 5: wave#100#9#0
+[info] after round 100 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#100#9#1
+[info] message from 1: wave#101#8#0
+[info] send message to 5: wave#101#8#0
+[info] message from 5: wave#101#8#0
+[info] after round 101 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#101#8#1
+[info] message from 1: wave#102#2#0
+[info] send message to 5: wave#102#2#0
+[info] message from 5: wave#102#2#0
+[info] after round 102 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#102#2#1
+[info] message from 1: wave#103#6#0
+[info] send message to 5: wave#103#6#0
+[info] message from 5: wave#103#6#0
+[info] after round 103 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#103#6#1
+[info] message from 1: wave#104#8#0
+[info] send message to 5: wave#104#8#0
+[info] message from 5: wave#104#8#0
+[info] after round 104 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#104#8#1
+[info] message from 1: wave#105#2#0
+[info] send message to 5: wave#105#2#0
+[info] message from 5: wave#105#2#0
+[info] after round 105 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#105#2#1
+[info] message from 1: wave#106#2#0
+[info] send message to 5: wave#106#2#0
+[info] message from 5: wave#106#2#0
+[info] after round 106 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#106#2#1
+[info] message from 1: wave#107#5#0
+[info] send message to 5: wave#107#5#0
+[info] message from 5: wave#107#5#0
+[info] after round 107 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#107#5#1
+[info] message from 1: wave#108#8#0
+[info] send message to 5: wave#108#8#0
+[info] message from 5: wave#108#8#0
+[info] after round 108 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#108#8#1
+[info] message from 1: wave#109#1#0
+[info] send message to 5: wave#109#1#0
+[info] message from 5: wave#109#1#0
+[info] after round 109 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#109#1#1
+[info] message from 1: wave#110#8#0
+[info] send message to 5: wave#110#8#0
+[info] message from 5: wave#110#8#0
+[info] after round 110 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#110#8#1
+[info] message from 1: wave#111#3#0
+[info] send message to 5: wave#111#3#0
+[info] message from 5: wave#111#3#0
+[info] after round 111 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#111#3#1
+[info] message from 1: wave#112#9#0
+[info] send message to 5: wave#112#9#0
+[info] message from 5: wave#112#9#0
+[info] after round 112 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#112#9#1
+[info] message from 1: wave#113#6#0
+[info] send message to 5: wave#113#6#0
+[info] message from 5: wave#113#6#0
+[info] after round 113 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#113#6#1
+[info] message from 1: wave#114#5#0
+[info] send message to 5: wave#114#5#0
+[info] message from 5: wave#114#5#0
+[info] after round 114 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#114#5#1
+[info] message from 1: wave#115#4#0
+[info] send message to 5: wave#115#4#0
+[info] message from 5: wave#115#4#0
+[info] after round 115 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#115#4#1
+[info] message from 1: wave#116#7#0
+[info] send message to 5: wave#116#7#0
+[info] message from 5: wave#116#7#0
+[info] after round 116 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#116#7#1
+[info] message from 1: wave#117#7#0
+[info] send message to 5: wave#117#7#0
+[info] message from 5: wave#117#7#0
+[info] after round 117 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#117#7#1
+[info] message from 1: wave#118#9#0
+[info] send message to 5: wave#118#9#0
+[info] message from 5: wave#118#9#0
+[info] after round 118 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#118#9#1
+[info] message from 1: wave#119#8#0
+[info] send message to 5: wave#119#8#0
+[info] message from 5: wave#119#8#0
+[info] after round 119 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#119#8#1
+[info] message from 1: wave#120#6#0
+[info] send message to 5: wave#120#6#0
+[info] message from 5: wave#120#6#0
+[info] after round 120 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#120#6#1
+[info] message from 1: wave#121#1#0
+[info] send message to 5: wave#121#1#0
+[info] message from 5: wave#121#1#0
+[info] after round 121 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#121#1#1
+[info] message from 1: wave#122#5#0
+[info] send message to 5: wave#122#5#0
+[info] message from 5: wave#122#5#0
+[info] after round 122 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#122#5#1
+[info] message from 1: wave#123#8#0
+[info] send message to 5: wave#123#8#0
+[info] message from 5: wave#123#8#0
+[info] after round 123 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#123#8#1
+[info] message from 1: wave#124#9#0
+[info] send message to 5: wave#124#9#0
+[info] message from 5: wave#124#9#0
+[info] after round 124 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#124#9#1
+[info] message from 1: wave#125#5#0
+[info] send message to 5: wave#125#5#0
+[info] message from 5: wave#125#5#0
+[info] after round 125 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#125#5#1
+[info] message from 1: wave#126#8#0
+[info] send message to 5: wave#126#8#0
+[info] message from 5: wave#126#8#0
+[info] after round 126 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#126#8#1
+[info] message from 1: wave#127#6#0
+[info] send message to 5: wave#127#6#0
+[info] message from 5: wave#127#6#0
+[info] after round 127 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#127#6#1
+[info] message from 1: wave#128#1#0
+[info] send message to 5: wave#128#1#0
+[info] message from 5: wave#128#1#0
+[info] after round 128 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#128#1#1
+[info] message from 1: wave#129#9#0
+[info] send message to 5: wave#129#9#0
+[info] message from 5: wave#129#9#0
+[info] after round 129 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#129#9#1
+[info] message from 1: wave#130#1#0
+[info] send message to 5: wave#130#1#0
+[info] message from 5: wave#130#1#0
+[info] after round 130 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#130#1#1
+[info] message from 1: wave#131#4#0
+[info] send message to 5: wave#131#4#0
+[info] message from 5: wave#131#4#0
+[info] after round 131 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#131#4#1
+[info] message from 1: wave#132#7#0
+[info] send message to 5: wave#132#7#0
+[info] message from 5: wave#132#7#0
+[info] after round 132 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#132#7#1
+[info] message from 1: wave#133#5#0
+[info] send message to 5: wave#133#5#0
+[info] message from 5: wave#133#5#0
+[info] after round 133 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#133#5#1
+[info] message from 1: wave#134#3#0
+[info] send message to 5: wave#134#3#0
+[info] message from 5: wave#134#3#0
+[info] after round 134 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#134#3#1
+[info] message from 1: wave#135#3#0
+[info] send message to 5: wave#135#3#0
+[info] message from 5: wave#135#3#0
+[info] after round 135 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#135#3#1
+[info] message from 1: wave#136#6#0
+[info] send message to 5: wave#136#6#0
+[info] message from 5: wave#136#6#0
+[info] after round 136 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#136#6#1
+[info] message from 1: wave#137#6#0
+[info] send message to 5: wave#137#6#0
+[info] message from 5: wave#137#6#0
+[info] after round 137 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#137#6#1
+[info] message from 1: wave#138#9#0
+[info] send message to 5: wave#138#9#0
+[info] message from 5: wave#138#9#0
+[info] after round 138 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#138#9#1
+[info] message from 1: wave#139#4#0
+[info] send message to 5: wave#139#4#0
+[info] message from 5: wave#139#4#0
+[info] after round 139 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#139#4#1
+[info] message from 1: wave#140#8#0
+[info] send message to 5: wave#140#8#0
+[info] message from 5: wave#140#8#0
+[info] after round 140 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#140#8#1
+[info] message from 1: wave#141#6#0
+[info] send message to 5: wave#141#6#0
+[info] message from 5: wave#141#6#0
+[info] after round 141 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#141#6#1
+[info] message from 1: wave#142#4#0
+[info] send message to 5: wave#142#4#0
+[info] message from 5: wave#142#4#0
+[info] after round 142 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#142#4#1
+[info] message from 1: wave#143#1#0
+[info] send message to 5: wave#143#1#0
+[info] message from 5: wave#143#1#0
+[info] after round 143 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#143#1#1
+[info] message from 1: wave#144#8#0
+[info] send message to 5: wave#144#8#0
+[info] message from 5: wave#144#8#0
+[info] after round 144 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#144#8#1
+[info] message from 1: wave#145#5#0
+[info] send message to 5: wave#145#5#0
+[info] message from 5: wave#145#5#0
+[info] after round 145 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#145#5#1
+[info] message from 1: wave#146#7#0
+[info] send message to 5: wave#146#7#0
+[info] message from 5: wave#146#7#0
+[info] after round 146 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#146#7#1
+[info] message from 1: wave#147#8#0
+[info] send message to 5: wave#147#8#0
+[info] message from 5: wave#147#8#0
+[info] after round 147 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#147#8#1
+[info] message from 1: wave#148#2#0
+[info] send message to 5: wave#148#2#0
+[info] message from 5: wave#148#2#0
+[info] after round 148 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#148#2#1
+[info] message from 1: wave#149#3#0
+[info] send message to 5: wave#149#3#0
+[info] message from 5: wave#149#3#0
+[info] after round 149 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#149#3#1
+[info] message from 1: wave#150#6#0
+[info] send message to 5: wave#150#6#0
+[info] message from 5: wave#150#6#0
+[info] after round 150 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#150#6#1
+[info] message from 1: wave#151#1#0
+[info] send message to 5: wave#151#1#0
+[info] message from 5: wave#151#1#0
+[info] after round 151 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#151#1#1
+[info] message from 1: wave#152#3#0
+[info] send message to 5: wave#152#3#0
+[info] message from 5: wave#152#3#0
+[info] after round 152 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#152#3#1
+[info] message from 1: wave#153#2#0
+[info] send message to 5: wave#153#2#0
+[info] message from 5: wave#153#2#0
+[info] after round 153 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#153#2#1
+[info] message from 1: wave#154#5#0
+[info] send message to 5: wave#154#5#0
+[info] message from 5: wave#154#5#0
+[info] after round 154 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#154#5#1
+[info] message from 1: wave#155#8#0
+[info] send message to 5: wave#155#8#0
+[info] message from 5: wave#155#8#0
+[info] after round 155 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#155#8#1
+[info] message from 1: wave#156#5#0
+[info] send message to 5: wave#156#5#0
+[info] message from 5: wave#156#5#0
+[info] after round 156 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#156#5#1
+[info] message from 1: wave#157#5#0
+[info] send message to 5: wave#157#5#0
+[info] message from 5: wave#157#5#0
+[info] after round 157 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#157#5#1
+[info] message from 1: wave#158#5#0
+[info] send message to 5: wave#158#5#0
+[info] message from 5: wave#158#5#0
+[info] after round 158 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#158#5#1
+[info] message from 1: wave#159#2#0
+[info] send message to 5: wave#159#2#0
+[info] message from 5: wave#159#2#0
+[info] after round 159 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#159#2#1
+[info] message from 1: wave#160#6#0
+[info] send message to 5: wave#160#6#0
+[info] message from 5: wave#160#6#0
+[info] after round 160 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#160#6#1
+[info] message from 1: wave#161#2#0
+[info] send message to 5: wave#161#2#0
+[info] message from 5: wave#161#2#0
+[info] after round 161 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#161#2#1
+[info] message from 1: wave#162#8#0
+[info] send message to 5: wave#162#8#0
+[info] message from 5: wave#162#8#0
+[info] after round 162 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#162#8#1
+[info] message from 1: wave#163#8#0
+[info] send message to 5: wave#163#8#0
+[info] message from 5: wave#163#8#0
+[info] after round 163 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#163#8#1
+[info] message from 1: wave#164#1#0
+[info] send message to 5: wave#164#1#0
+[info] message from 5: wave#164#1#0
+[info] after round 164 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#164#1#1
+[info] message from 1: wave#165#3#0
+[info] send message to 5: wave#165#3#0
+[info] message from 5: wave#165#3#0
+[info] after round 165 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#165#3#1
+[info] message from 1: wave#166#4#0
+[info] send message to 5: wave#166#4#0
+[info] message from 5: wave#166#4#0
+[info] after round 166 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#166#4#1
+[info] message from 1: wave#167#5#0
+[info] send message to 5: wave#167#5#0
+[info] message from 5: wave#167#5#0
+[info] after round 167 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#167#5#1
+[info] message from 1: wave#168#3#0
+[info] send message to 5: wave#168#3#0
+[info] message from 5: wave#168#3#0
+[info] after round 168 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#168#3#1
+[info] message from 1: wave#169#7#0
+[info] send message to 5: wave#169#7#0
+[info] message from 5: wave#169#7#0
+[info] after round 169 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#169#7#1
+[info] message from 1: wave#170#7#0
+[info] send message to 5: wave#170#7#0
+[info] message from 5: wave#170#7#0
+[info] after round 170 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#170#7#1
+[info] message from 1: wave#171#8#0
+[info] send message to 5: wave#171#8#0
+[info] message from 5: wave#171#8#0
+[info] after round 171 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#171#8#1
+[info] message from 1: wave#172#3#0
+[info] send message to 5: wave#172#3#0
+[info] message from 5: wave#172#3#0
+[info] after round 172 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#172#3#1
+[info] message from 1: wave#173#9#0
+[info] send message to 5: wave#173#9#0
+[info] message from 5: wave#173#9#0
+[info] after round 173 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#173#9#1
+[info] message from 1: wave#174#3#0
+[info] send message to 5: wave#174#3#0
+[info] message from 5: wave#174#3#0
+[info] after round 174 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#174#3#1
+[info] message from 1: wave#175#3#0
+[info] send message to 5: wave#175#3#0
+[info] message from 5: wave#175#3#0
+[info] after round 175 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#175#3#1
+[info] message from 1: wave#176#6#0
+[info] send message to 5: wave#176#6#0
+[info] message from 5: wave#176#6#0
+[info] after round 176 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#176#6#1
+[info] message from 1: wave#177#2#0
+[info] send message to 5: wave#177#2#0
+[info] message from 5: wave#177#2#0
+[info] after round 177 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#177#2#1
+[info] message from 1: wave#178#4#0
+[info] send message to 5: wave#178#4#0
+[info] message from 5: wave#178#4#0
+[info] after round 178 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#178#4#1
+[info] message from 1: wave#179#8#0
+[info] send message to 5: wave#179#8#0
+[info] message from 5: wave#179#8#0
+[info] after round 179 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#179#8#1
+[info] message from 1: wave#180#7#0
+[info] send message to 5: wave#180#7#0
+[info] message from 5: wave#180#7#0
+[info] after round 180 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#180#7#1
+[info] message from 1: wave#181#1#0
+[info] send message to 5: wave#181#1#0
+[info] message from 5: wave#181#1#0
+[info] after round 181 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#181#1#1
+[info] message from 1: wave#182#8#0
+[info] send message to 5: wave#182#8#0
+[info] message from 5: wave#182#8#0
+[info] after round 182 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#182#8#1
+[info] message from 1: wave#183#6#0
+[info] send message to 5: wave#183#6#0
+[info] message from 5: wave#183#6#0
+[info] after round 183 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#183#6#1
+[info] message from 1: wave#184#9#0
+[info] send message to 5: wave#184#9#0
+[info] message from 5: wave#184#9#0
+[info] after round 184 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#184#9#1
+[info] message from 1: wave#185#2#0
+[info] send message to 5: wave#185#2#0
+[info] message from 5: wave#185#2#0
+[info] after round 185 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#185#2#1
+[info] message from 1: wave#186#4#0
+[info] send message to 5: wave#186#4#0
+[info] message from 5: wave#186#4#0
+[info] after round 186 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#186#4#1
+[info] message from 1: wave#187#5#0
+[info] send message to 5: wave#187#5#0
+[info] message from 5: wave#187#5#0
+[info] after round 187 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#187#5#1
+[info] message from 1: wave#188#8#0
+[info] send message to 5: wave#188#8#0
+[info] message from 5: wave#188#8#0
+[info] after round 188 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#188#8#1
+[info] message from 1: wave#189#7#0
+[info] send message to 5: wave#189#7#0
+[info] message from 5: wave#189#7#0
+[info] after round 189 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#189#7#1
+[info] message from 1: wave#190#3#0
+[info] send message to 5: wave#190#3#0
+[info] message from 5: wave#190#3#0
+[info] after round 190 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#190#3#1
+[info] message from 1: wave#191#7#0
+[info] send message to 5: wave#191#7#0
+[info] message from 5: wave#191#7#0
+[info] after round 191 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#191#7#1
+[info] message from 1: wave#192#2#0
+[info] send message to 5: wave#192#2#0
+[info] message from 5: wave#192#2#0
+[info] after round 192 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#192#2#1
+[info] message from 1: wave#193#3#0
+[info] send message to 5: wave#193#3#0
+[info] message from 5: wave#193#3#0
+[info] after round 193 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#193#3#1
+[info] message from 1: wave#194#3#0
+[info] send message to 5: wave#194#3#0
+[info] message from 5: wave#194#3#0
+[info] after round 194 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#194#3#1
+[info] message from 1: wave#195#9#0
+[info] send message to 5: wave#195#9#0
+[info] message from 5: wave#195#9#0
+[info] after round 195 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#195#9#1
+[info] message from 1: wave#196#9#0
+[info] send message to 5: wave#196#9#0
+[info] message from 5: wave#196#9#0
+[info] after round 196 : parent is ['1'] and leader id is 9
+[info] send message to 1: wave#196#9#1
+[info] message from 1: wave#197#1#0
+[info] send message to 5: wave#197#1#0
+[info] message from 5: wave#197#1#0
+[info] after round 197 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#197#1#1
+[info] message from 1: wave#198#4#0
+[info] send message to 5: wave#198#4#0
+[info] message from 5: wave#198#4#0
+[info] after round 198 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#198#4#1
+[info] message from 1: wave#199#8#0
+[info] send message to 5: wave#199#8#0
+[info] message from 5: wave#199#8#0
+[info] after round 199 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#199#8#1
+[info] message from 1: wave#200#7#0
+[info] send message to 5: wave#200#7#0
+[info] message from 5: wave#200#7#0
+[info] after round 200 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#200#7#1
+[info] message from 1: wave#201#3#0
+[info] send message to 5: wave#201#3#0
+[info] message from 5: wave#201#3#0
+[info] after round 201 : parent is ['1'] and leader id is 3
+[info] send message to 1: wave#201#3#1
+[info] message from 1: wave#202#6#0
+[info] send message to 5: wave#202#6#0
+[info] message from 5: wave#202#6#0
+[info] after round 202 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#202#6#1
+[info] message from 1: wave#203#7#0
+[info] send message to 5: wave#203#7#0
+[info] message from 5: wave#203#7#0
+[info] after round 203 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#203#7#1
+[info] message from 1: wave#204#8#0
+[info] send message to 5: wave#204#8#0
+[info] message from 5: wave#204#8#0
+[info] after round 204 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#204#8#1
+[info] message from 1: wave#205#4#0
+[info] send message to 5: wave#205#4#0
+[info] message from 5: wave#205#4#0
+[info] after round 205 : parent is ['1'] and leader id is 4
+[info] send message to 1: wave#205#4#1
+[info] message from 1: wave#206#7#0
+[info] send message to 5: wave#206#7#0
+[info] message from 5: wave#206#7#0
+[info] after round 206 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#206#7#1
+[info] message from 1: wave#207#2#0
+[info] send message to 5: wave#207#2#0
+[info] message from 5: wave#207#2#0
+[info] after round 207 : parent is ['1'] and leader id is 2
+[info] send message to 1: wave#207#2#1
+[info] message from 1: wave#208#7#0
+[info] send message to 5: wave#208#7#0
+[info] message from 5: wave#208#7#0
+[info] after round 208 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#208#7#1
+[info] message from 1: wave#209#1#0
+[info] send message to 5: wave#209#1#0
+[info] message from 5: wave#209#1#0
+[info] after round 209 : parent is ['1'] and leader id is 1
+[info] send message to 1: wave#209#1#1
+[info] message from 1: wave#210#8#0
+[info] send message to 5: wave#210#8#0
+[info] message from 5: wave#210#8#0
+[info] after round 210 : parent is ['1'] and leader id is 8
+[info] send message to 1: wave#210#8#1
+[info] message from 1: wave#211#6#0
+[info] send message to 5: wave#211#6#0
+[info] message from 5: wave#211#6#0
+[info] after round 211 : parent is ['1'] and leader id is 6
+[info] send message to 1: wave#211#6#1
+[info] message from 1: wave#212#5#0
+[info] send message to 5: wave#212#5#0
+[info] message from 5: wave#212#5#0
+[info] after round 212 : parent is ['1'] and leader id is 5
+[info] send message to 1: wave#212#5#1
+[info] message from 1: wave#213#7#0
+[info] send message to 5: wave#213#7#0
+[info] message from 5: wave#213#7#0
+[info] after round 213 : parent is ['1'] and leader id is 7
+[info] send message to 1: wave#213#7#1
+[info] message from 1: wave#214#1#0
+[info] send message to 5: wave#214#1#0
+[info] received keyboard interrupt

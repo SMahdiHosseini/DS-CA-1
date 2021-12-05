@@ -9,11 +9,7 @@ if __name__ == '__main__':
     log(f'I\'m connected to nodes {world.neighbors}')
     log(f'I have edges {world.edges}')
 
-    r = 0
-    # world.
-    # world.send_hello()
-    if world.current_node == str(1):
-        world.start_round(r)
+    world.start_round('0')
     try:
         world.listen()
     except KeyboardInterrupt:
