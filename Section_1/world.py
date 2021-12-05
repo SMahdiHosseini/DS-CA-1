@@ -29,6 +29,10 @@ def zero_one_random(p):
     return random.choices([0, 1], [1 - p, p]) == [1]
 
 
+def id_random_selector(n):
+    return random.choices([i for i in range(1, n + 1)])
+
+
 def callback(ch, method, properties, body):
     src, msg = body.decode().split(SEPARATOR)
     return world.receive(src=src, msg=msg)
@@ -75,6 +79,9 @@ class AbstractWorld(object):
         raise NotImplementedError
 
     def send_hello(self):
+        raise NotImplementedError
+
+    def start_round(self, r):
         raise NotImplementedError
 
     @property
@@ -134,6 +141,9 @@ class SimulatorFullView(AbstractWorld):
         for n in self._world_map.nodes:
             self.send_message(n, HELLO_MSG)
 
+    def start_round(self, r):
+        raise NotImplementedError
+
     @property
     def neighbors(self) -> list:
         return list(self._world_map.neighbors(self.current_node))
@@ -157,9 +167,22 @@ class SimulatorFullView(AbstractWorld):
 
         self._world_map = nx.read_gml(args.network_gml)
 
+        self.number_of_nodes_world_map = len(self._world_map.nodes)
+        self.current_node_id = 0
+
 
 class SimulatorOnlyNeighbors(SimulatorFullView):
     name = 'simulator-only-neighbours'
+
+    def start_round(self, r):
+        log(f'round {r} started!')
+        self.current_node_id = id_random_selector(self.number_of_nodes_world_map)[0]
+        log(f'-- new id {self.current_node_id} selected!')
+        # msg = str(r) + "#" + str(self.current_node_id) + "#" + str(0)
+        msg = HELLO_MSG
+        # log(f'-- new echo message {msg}')
+        for n in self.neighbors:
+            self.send_message(n, msg)
 
     def send_hello(self):
         for n in self.neighbors:
