@@ -1,0 +1,15 @@
+[info] Hello from node2
+[info] I'm connected to nodes ['1', '2', '3', '6', '7']
+[info] I have edges [('2', '1'), ('2', '2'), ('2', '3'), ('2', '6'), ('2', '7')]
+[info] send message to 1: hello
+[info] send message to 2: hello
+[info] send message to 3: hello
+[info] send message to 6: hello
+[info] send message to 7: hello
+[info] message from 1: hello
+[info] message from 7: hello
+[info] message from 3: hello
+[info] message from 2: hello
+[info] message from 6: hello
+[info] send message to 2: exit
+[info] message from 2: exit

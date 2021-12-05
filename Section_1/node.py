@@ -5,6 +5,8 @@ import sys
 from world import world, log
 
 if __name__ == '__main__':
+    # print("hello   \n")
+
     log(f'Hello from node{world.current_node}')
     log(f'I\'m connected to nodes {world.neighbors}')
     log(f'I have edges {world.edges}')

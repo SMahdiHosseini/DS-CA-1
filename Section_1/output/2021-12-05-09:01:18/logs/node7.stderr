@@ -1,0 +1,9 @@
+[info] Hello from node7
+[info] I'm connected to nodes ['2', '7']
+[info] I have edges [('7', '2'), ('7', '7')]
+[info] send message to 2: hello
+[info] send message to 7: hello
+[info] message from 7: hello
+[info] message from 2: hello
+[info] send message to 7: exit
+[info] message from 7: exit
