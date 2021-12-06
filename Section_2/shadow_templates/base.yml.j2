@@ -1,0 +1,14 @@
+general:
+  stop_time: {{ stop_time }}
+network:
+  graph:
+    type: gml
+    file:
+      path: {{tempdir}}/network.gml
+hosts:
+  node:
+    network_node_id: 0
+    quantity: {{ num_nodes }}
+    processes:
+      - path: node.py
+        args: --world simulator-only-neighbours --network /workspace/{{tempdir}}/network.gml --log-level {{ log_level }}
