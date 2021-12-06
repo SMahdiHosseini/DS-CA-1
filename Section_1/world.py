@@ -177,8 +177,9 @@ class SimulatorOnlyNeighbors(SimulatorFullView):
     name = 'simulator-only-neighbours'
 
     def start_round(self, r):
-        log(f'round {r} started!')
-        self.current_leader_id = str(id_random_selector(self.number_of_nodes_world_map)[0])
+        log(f'-- round {r} started!')
+        # self.current_leader_id = str(id_random_selector(self.number_of_nodes_world_map)[0])
+        self.current_leader_id = self.current_node
         self.current_leader_round = r
         log(f'-- new id {self.current_leader_id} selected!')
         msg = "wave" + "#" + self.current_leader_round + "#" + self.current_leader_id + "#" + str(0)
