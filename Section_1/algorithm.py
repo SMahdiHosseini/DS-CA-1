@@ -5,8 +5,38 @@ from world import log, world, HELLO_MSG
 SEPARATOR = '#'
 
 got_msg_from = []
+got_done_from = []
+done_parent = []
 parent = []
 subtree_size = []
+
+
+def echo(src, msg):
+    done_parent.append(src)
+    got_done_from.append(src)
+    for n in world.neighbors:
+        if n != src:
+            world.send_message(to=n, msg=msg)
+
+
+def process_termination_message(src, msg):
+    log(f"message from {src}: {msg}")
+
+    if msg == "exit":
+        print(f'## algorithm terminated:\n after round {world.current_leader_round} : parent is {parent} and leader id is {world.current_leader_id}')
+        sys.exit()
+    elif msg == 'done':
+        got_done_from.append(src)
+    else:
+        if src == world.current_node:
+            got_done_from.append(src)
+        if len(done_parent) == 0 and src != world.current_node:
+            echo(src, msg)
+
+    if set(got_done_from) == set(world.neighbors):
+        if len(done_parent) != 0:
+            world.send_message(to=parent[0], msg='done')
+        world.send_message(to=world.current_node, msg='exit')
 
 
 def echo_extinction(src, msg):
@@ -39,17 +69,11 @@ def echo_extinction(src, msg):
 
 def process_msg(src, msg):
     log(f"message from {src}: {msg}")
-    if msg == "exit":
-        print(f'## algorithm terminated:\n after round {world.current_leader_round} : parent is {parent} and leader id is {world.current_leader_id}')
-        for n in world.neighbors:
-            if n != world.current_node and n != src:
-                world.send_message(n, msg)
-        sys.exit()
+
+    if src != world.current_node:
+        echo_extinction(src, msg)
     else:
-        if src != world.current_node:
-            echo_extinction(src, msg)
-        else:
-            got_msg_from.append(src)
+        got_msg_from.append(src)
 
     if set(got_msg_from) == set(world.neighbors):
         log(f'after round {world.current_leader_round} : parent is {parent} and leader id is {world.current_leader_id}')
@@ -61,8 +85,9 @@ def process_msg(src, msg):
             if (sum(subtree_size) + 1) == world.number_of_nodes_world_map:
                 print(f'### I am the leader after round {world.current_leader_round} and my id is {world.current_leader_id}')
                 for n in world.neighbors:
-                    if n != world.current_node:
-                        world.send_message(to=n, msg='exit')
+                    world.send_message(to=n, msg='terminate')
+                    # if n != world.current_node:
+                    #     world.send_message(to=n, msg='exit')
                 sys.exit()
             else:
                 got_msg_from.clear()

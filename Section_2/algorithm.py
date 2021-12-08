@@ -41,11 +41,15 @@ def process_msg(src, msg):
     log(f"message from {src}: {msg}")
     if msg == "exit":
         print(f'## algorithm terminated:\n after round {world.current_leader_round} : parent is {parent} and leader id is {world.current_leader_id}')
+        print(f'## number of messages = {world.number_of_messages}')
         for n in world.neighbors:
             if n != world.current_node and n != src:
                 world.send_message(n, msg)
         sys.exit()
     else:
+        # message counter
+        world.number_of_messages += 1
+
         if src != world.current_node:
             echo_extinction(src, msg)
         else:
@@ -60,6 +64,7 @@ def process_msg(src, msg):
         else:
             if (sum(subtree_size) + 1) == world.number_of_nodes_world_map:
                 print(f'### I am the leader after round {world.current_leader_round} and my id is {world.current_leader_id}')
+                print(f'## number of messages = {world.number_of_messages}')
                 for n in world.neighbors:
                     if n != world.current_node:
                         world.send_message(to=n, msg='exit')

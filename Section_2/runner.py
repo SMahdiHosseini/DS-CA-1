@@ -173,7 +173,7 @@ def run_simulation_process():
         log(f'starting node{i}.')
         p = subprocess.Popen(' '.join([
             'python3.8',
-            workspace.parent.parent.absolute().joinpath('node.py').__str__(),
+            workspace.parent.parent.parent.absolute().joinpath('node.py').__str__(),
             f'--force-node {i}',
             '--pika-host localhost',
             '--world simulator-only-neighbours',
@@ -201,7 +201,8 @@ def run_simulation():
 if __name__ == '__main__':
     # Create tempdir
     log('creating temp directory.')
-    tempdir = "output/" + datetime.now().strftime("%Y-%m-%d-%H:%M:%S")
+    # tempdir = "output/" + datetime.now().strftime("%Y-%m-%d-%H:%M:%S")
+    tempdir = "output/" + args.input_file + datetime.now().strftime("%Y-%m-%d-%H:%M:%S")
     pathlib.Path(tempdir).mkdir(parents=True)
 
     log('generating graph')

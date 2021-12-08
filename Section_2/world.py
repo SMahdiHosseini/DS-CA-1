@@ -170,6 +170,7 @@ class SimulatorFullView(AbstractWorld):
         self.number_of_nodes_world_map = len(self._world_map.nodes)
         self.current_leader_id = '0'
         self.current_leader_round = '-1'
+        self.number_of_messages = 0
         # self.is_active = True
 
 

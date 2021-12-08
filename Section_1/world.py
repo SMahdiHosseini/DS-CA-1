@@ -100,8 +100,11 @@ class SimulatorFullView(AbstractWorld):
     name = 'simulator-full-view'
 
     def receive(self, src, msg):
-        from algorithm import process_msg
-        return process_msg(src, msg)
+        from algorithm import process_msg, process_termination_message
+        if msg.split('#')[0] == "wave":
+            return process_msg(src, msg)
+        else:
+            return process_termination_message(src, msg)
 
     @staticmethod
     def pika_host(node):
