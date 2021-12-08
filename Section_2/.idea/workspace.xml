@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20191c72-497e-4c6a-b738-0c98371c3920" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_001.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_002.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_003.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_004.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/world.py" beforeDir="false" afterPath="$PROJECT_DIR$/world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node1.stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node1.stdout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node2.stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node2.stdout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node3.stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node3.stdout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node4.stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node4.stdout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node5.stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/logs/node5.stdout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/network.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/network.gml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/network.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/2021-12-08-20:00:48/shadow.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/inputs/secondPartRunner.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +114,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner.py" />
-      <option name="PARAMETERS" value="--input ./inputs/complete_5.in --stdout --debug" />
+      <option name="PARAMETERS" value="--input ./inputs/ring_35.in --stdout --debug" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
