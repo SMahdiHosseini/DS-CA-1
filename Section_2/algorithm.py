@@ -47,10 +47,9 @@ def process_msg(src, msg):
                 world.send_message(n, msg)
         sys.exit()
     else:
-        # message counter
-        world.number_of_messages += 1
-
         if src != world.current_node:
+            # message counter
+            world.number_of_messages += 1
             echo_extinction(src, msg)
         else:
             got_msg_from.append(src)

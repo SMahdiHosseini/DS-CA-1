@@ -4,7 +4,8 @@ do
 
   python3.8 runner.py --input $FILE --stdout --debug
 
+  echo "######  $FILE running ended #######";
+
   sudo service rabbitmq-server restart
 
-  echo "######  $FILE running ended #######";
 done
