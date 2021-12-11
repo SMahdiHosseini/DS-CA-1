@@ -1,0 +1,27 @@
+[info] Hello from node15
+[info] I'm connected to nodes ['14', '15', '16']
+[info] I have edges [('15', '14'), ('15', '15'), ('15', '16')]
+[info] -- round 0 started!
+[info] -- new id 5 selected!
+[info] send message to 14: wave#0#5#0
+[info] send message to 15: wave#0#5#0
+[info] send message to 16: wave#0#5#0
+[info] message from 16: wave#0#15#0
+[info] send message to 14: wave#0#15#0
+[info] send message to 15: wave#0#15#0
+[info] message from 14: wave#0#14#0
+[info] message from 15: wave#0#5#0
+[info] message from 14: wave#0#16#0
+[info] send message to 15: wave#0#16#0
+[info] send message to 16: wave#0#16#0
+[info] message from 15: wave#0#15#0
+[info] message from 15: wave#0#16#0
+[info] message from 16: wave#0#23#0
+[info] send message to 14: wave#0#23#0
+[info] send message to 15: wave#0#23#0
+[info] message from 15: wave#0#23#0
+[info] message from 14: wave#0#23#15
+[info] after round 0 : parent is ['16'] and leader id is 23
+[info] send message to 16: wave#0#23#16
+[info] message from 16: exit
+[info] send message to 14: exit
