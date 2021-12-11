@@ -1,0 +1,52 @@
+[info] Hello from node15
+[info] I'm connected to nodes ['14', '15', '16']
+[info] I have edges [('15', '14'), ('15', '15'), ('15', '16')]
+[info] -- round 0 started!
+[info] -- new id 2 selected!
+[info] send message to 14: wave#0#2#0
+[info] send message to 15: wave#0#2#0
+[info] send message to 16: wave#0#2#0
+[info] message from 16: wave#0#26#0
+[info] send message to 14: wave#0#26#0
+[info] send message to 15: wave#0#26#0
+[info] message from 16: wave#0#31#0
+[info] send message to 14: wave#0#31#0
+[info] send message to 15: wave#0#31#0
+[info] message from 15: wave#0#2#0
+[info] message from 14: wave#0#8#0
+[info] message from 15: wave#0#26#0
+[info] message from 14: wave#0#42#0
+[info] send message to 15: wave#0#42#0
+[info] send message to 16: wave#0#42#0
+[info] message from 15: wave#0#31#0
+[info] message from 15: wave#0#42#0
+[info] message from 16: wave#0#42#2
+[info] after round 0 : parent is ['14'] and leader id is 42
+[info] send message to 14: wave#0#42#3
+[info] message from 16: wave#0#44#0
+[info] send message to 14: wave#0#44#0
+[info] send message to 15: wave#0#44#0
+[info] message from 15: wave#0#44#0
+[info] message from 14: wave#0#44#9
+[info] after round 0 : parent is ['16'] and leader id is 44
+[info] send message to 16: wave#0#44#10
+[info] message from 16: wave#1#39#0
+[info] send message to 14: wave#1#39#0
+[info] send message to 15: wave#1#39#0
+[info] message from 15: wave#1#39#0
+[info] message from 14: wave#1#39#5
+[info] after round 1 : parent is ['16'] and leader id is 39
+[info] send message to 16: wave#1#39#6
+[info] message from 16: wave#2#12#0
+[info] send message to 14: wave#2#12#0
+[info] send message to 15: wave#2#12#0
+[info] message from 15: wave#2#12#0
+[info] message from 14: wave#2#21#0
+[info] send message to 15: wave#2#21#0
+[info] send message to 16: wave#2#21#0
+[info] message from 16: wave#2#21#0
+[info] message from 15: wave#2#21#0
+[info] after round 2 : parent is ['14'] and leader id is 21
+[info] send message to 14: wave#2#21#1
+[info] message from 14: exit
+[info] send message to 16: exit

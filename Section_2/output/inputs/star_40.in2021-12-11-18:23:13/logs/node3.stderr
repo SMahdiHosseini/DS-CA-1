@@ -1,0 +1,20 @@
+[info] Hello from node3
+[info] I'm connected to nodes ['1', '3']
+[info] I have edges [('3', '1'), ('3', '3')]
+[info] -- round 0 started!
+[info] -- new id 32 selected!
+[info] send message to 1: wave#0#32#0
+[info] send message to 3: wave#0#32#0
+[info] message from 1: wave#0#22#0
+[info] message from 3: wave#0#32#0
+[info] message from 1: wave#0#32#0
+[info] after round 0 : parent is [] and leader id is 32
+[info] -- round 1 started!
+[info] -- new id 37 selected!
+[info] send message to 1: wave#1#37#0
+[info] send message to 3: wave#1#37#0
+[info] message from 3: wave#1#37#0
+[info] message from 1: wave#0#39#0
+[info] message from 1: wave#1#37#39
+[info] after round 1 : parent is [] and leader id is 37
+[info] send message to 1: exit
