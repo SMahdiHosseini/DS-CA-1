@@ -1,0 +1,82 @@
+[info] Hello from node12
+[info] I'm connected to nodes ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15']
+[info] I have edges [('12', '1'), ('12', '2'), ('12', '3'), ('12', '4'), ('12', '5'), ('12', '6'), ('12', '7'), ('12', '8'), ('12', '9'), ('12', '10'), ('12', '11'), ('12', '12'), ('12', '13'), ('12', '14'), ('12', '15')]
+[info] -- round 0 started!
+[info] -- new id 14 selected!
+[info] send message to 1: wave#0#14#0
+[info] send message to 2: wave#0#14#0
+[info] send message to 3: wave#0#14#0
+[info] send message to 4: wave#0#14#0
+[info] send message to 5: wave#0#14#0
+[info] send message to 6: wave#0#14#0
+[info] send message to 7: wave#0#14#0
+[info] send message to 8: wave#0#14#0
+[info] send message to 9: wave#0#14#0
+[info] send message to 10: wave#0#14#0
+[info] send message to 11: wave#0#14#0
+[info] send message to 12: wave#0#14#0
+[info] send message to 13: wave#0#14#0
+[info] send message to 14: wave#0#14#0
+[info] send message to 15: wave#0#14#0
+[info] message from 2: wave#0#9#0
+[info] message from 1: wave#0#12#0
+[info] message from 8: wave#0#1#0
+[info] message from 11: wave#0#8#0
+[info] message from 5: wave#0#9#0
+[info] message from 7: wave#0#8#0
+[info] message from 3: wave#0#11#0
+[info] message from 4: wave#0#11#0
+[info] message from 6: wave#0#9#0
+[info] message from 9: wave#0#10#0
+[info] message from 2: wave#0#12#0
+[info] message from 10: wave#0#7#0
+[info] message from 12: wave#0#14#0
+[info] message from 14: wave#0#12#0
+[info] message from 13: wave#0#3#0
+[info] message from 8: wave#0#9#0
+[info] message from 11: wave#0#9#0
+[info] message from 15: wave#0#7#0
+[info] message from 5: wave#0#12#0
+[info] message from 4: wave#0#12#0
+[info] message from 6: wave#0#12#0
+[info] message from 3: wave#0#12#0
+[info] message from 7: wave#0#9#0
+[info] message from 9: wave#0#12#0
+[info] message from 10: wave#0#9#0
+[info] message from 14: wave#0#14#0
+[info] message from 8: wave#0#12#0
+[info] message from 13: wave#0#9#0
+[info] message from 11: wave#0#12#0
+[info] message from 15: wave#0#9#0
+[info] message from 7: wave#0#12#0
+[info] message from 10: wave#0#12#0
+[info] message from 13: wave#0#12#0
+[info] message from 15: wave#0#12#0
+[info] message from 2: wave#0#14#1
+[info] message from 3: wave#0#14#1
+[info] message from 4: wave#0#14#1
+[info] message from 5: wave#0#14#1
+[info] message from 13: wave#0#14#0
+[info] message from 6: wave#0#14#1
+[info] message from 7: wave#0#14#1
+[info] message from 8: wave#0#14#1
+[info] message from 9: wave#0#14#1
+[info] message from 10: wave#0#14#1
+[info] message from 11: wave#0#14#1
+[info] message from 15: wave#0#14#0
+[info] message from 1: wave#0#14#4
+[info] after round 0 : parent is [] and leader id is 14
+[info] send message to 1: exit
+[info] send message to 2: exit
+[info] send message to 3: exit
+[info] send message to 4: exit
+[info] send message to 5: exit
+[info] send message to 6: exit
+[info] send message to 7: exit
+[info] send message to 8: exit
+[info] send message to 9: exit
+[info] send message to 10: exit
+[info] send message to 11: exit
+[info] send message to 13: exit
+[info] send message to 14: exit
+[info] send message to 15: exit
