@@ -1,0 +1,14 @@
+general:
+  stop_time: 10s
+network:
+  graph:
+    type: gml
+    file:
+      path: output/./inputs/path_45.in2021-12-11-18:12:40/network.gml
+hosts:
+  node:
+    network_node_id: 0
+    quantity: 45
+    processes:
+      - path: node.py
+        args: --world simulator-only-neighbours --network /workspace/output/./inputs/path_45.in2021-12-11-18:12:40/network.gml --log-level debug

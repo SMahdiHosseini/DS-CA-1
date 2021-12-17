@@ -1,0 +1,31 @@
+[info] Hello from node42
+[info] I'm connected to nodes ['41', '42', '43']
+[info] I have edges [('42', '41'), ('42', '42'), ('42', '43')]
+[info] -- round 0 started!
+[info] -- new id 31 selected!
+[info] send message to 41: wave#0#31#0
+[info] send message to 42: wave#0#31#0
+[info] send message to 43: wave#0#31#0
+[info] message from 42: wave#0#31#0
+[info] message from 43: wave#0#10#0
+[info] message from 41: wave#0#37#0
+[info] send message to 42: wave#0#37#0
+[info] send message to 43: wave#0#37#0
+[info] message from 42: wave#0#37#0
+[info] message from 41: wave#0#39#0
+[info] send message to 42: wave#0#39#0
+[info] send message to 43: wave#0#39#0
+[info] message from 43: wave#0#32#0
+[info] message from 42: wave#0#39#0
+[info] message from 43: wave#0#39#3
+[info] after round 0 : parent is ['41'] and leader id is 39
+[info] send message to 41: wave#0#39#4
+[info] message from 41: wave#1#40#0
+[info] send message to 42: wave#1#40#0
+[info] send message to 43: wave#1#40#0
+[info] message from 42: wave#1#40#0
+[info] message from 43: wave#1#40#3
+[info] after round 1 : parent is ['41'] and leader id is 40
+[info] send message to 41: wave#1#40#4
+[info] message from 41: exit
+[info] send message to 43: exit
