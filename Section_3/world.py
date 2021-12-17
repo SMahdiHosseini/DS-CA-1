@@ -14,6 +14,7 @@ parser.add_argument('--log-level', dest='log_level', help='The log level', defau
 parser.add_argument('--force-node', dest='force_node')
 parser.add_argument('--pika-host', dest='pika_host')
 parser.add_argument('--simulate-network-parameters', dest='simulate_network_parameters', action='store_true')
+parser.add_argument('--configs', dest="config", help='Configuration file for priority of processes ')
 args = parser.parse_args()
 
 SEPARATOR = "###$$###"
@@ -78,10 +79,10 @@ class AbstractWorld(object):
     def receive(self, src, msg):
         raise NotImplementedError
 
-    def send_hello(self):
+    def start_first_phase(self):
         raise NotImplementedError
 
-    def start_round(self, r):
+    def set_voted(self, status):
         raise NotImplementedError
 
     @property
@@ -95,6 +96,20 @@ class AbstractWorld(object):
     def get_edge_data(self, u, v):
         raise NotImplementedError
 
+    def add_message(self):
+        raise NotImplementedError
+
+    def all_nodes(self):
+        raise NotImplementedError
+
+    def start_second_phase(self):
+        raise NotImplementedError
+
+    def find_priority_from_config_file(self):
+        raise NotImplementedError
+
+    def find_active_sources(self):
+        raise NotImplementedError
 
 class SimulatorFullView(AbstractWorld):
     name = 'simulator-full-view'
@@ -109,6 +124,18 @@ class SimulatorFullView(AbstractWorld):
             return f'node{node}'
         else:
             return args.pika_host
+
+    def add_message(self):
+        self.number_of_messages += 1
+
+    def all_nodes(self):
+        return self._world_map.nodes
+
+    def set_voted(self, status):
+        self.voted = status
+
+    def add_vote(self, vote):
+        self.votes += vote
 
     def listen(self):
         connection = pika.BlockingConnection(
@@ -137,12 +164,24 @@ class SimulatorFullView(AbstractWorld):
                               body=f"{self.current_node}{'###$$###'}{msg}".encode())
         connection.close()
 
-    def send_hello(self):
+    def start_second_phase(self):
+        log(f'second phase started!')
+        message = "CRQ" + "#" + self.current_node + "#" + str(self.find_priority_from_config_file()) + "#" + "0"
         for n in self._world_map.nodes:
-            self.send_message(n, HELLO_MSG)
+            self.send_message(n, message)
 
-    def start_round(self, r):
-        raise NotImplementedError
+    def start_first_phase(self):
+        log(f'first phase started!')
+        self.is_active = True if self.find_priority_from_config_file() == 3 else False
+        self.active_sources = self.find_active_sources()
+
+        if self.is_active:
+            log(f'successfully filtered!')
+            self.start_second_phase()
+            # print(self.active_sources)
+        else:
+            log(f'rejected!')
+            log(f'waiting for CRQ messages!')
 
     @property
     def neighbors(self) -> list:
@@ -159,6 +198,18 @@ class SimulatorFullView(AbstractWorld):
     def get_edge_data(self, u, v, key=None, default=None):
         return self._world_map.get_edge_data(u, v).get(key, default)
 
+    def find_priority_from_config_file(self):
+        f = open(args.config)
+        return int(f.readlines()[int(self.current_node) - 1].split()[-1])
+
+    def find_active_sources(self):
+        actives = []
+        f = open(args.config)
+        for line in f.readlines():
+            if int(line.split()[-1]) == 3:
+                actives.append(line.split()[0].split(":")[0])
+        return actives
+
     def __init__(self):
         if args.force_node is None:
             self.current_node = socket.gethostname().replace('node', '')
@@ -168,28 +219,18 @@ class SimulatorFullView(AbstractWorld):
         self._world_map = nx.read_gml(args.network_gml)
 
         self.number_of_nodes_world_map = len(self._world_map.nodes)
-        self.current_leader_id = '0'
-        self.current_leader_round = '-1'
         self.number_of_messages = 0
-        # self.is_active = True
+        self.is_active = None
+        self.voted = False
+        self.votes = 0
+        self.active_sources = []
 
 
 class SimulatorOnlyNeighbors(SimulatorFullView):
     name = 'simulator-only-neighbours'
 
-    def start_round(self, r):
-        log(f'-- round {r} started!')
-        self.current_leader_id = str(id_random_selector(self.number_of_nodes_world_map)[0])
-        # self.current_leader_id = self.current_node
-        self.current_leader_round = r
-        log(f'-- new id {self.current_leader_id} selected!')
-        msg = "wave" + "#" + self.current_leader_round + "#" + self.current_leader_id + "#" + str(0)
-        for n in self.neighbors:
-            self.send_message(n, msg)
-
-    def send_hello(self):
-        for n in self.neighbors:
-            self.send_message(n, HELLO_MSG)
+    def start_first_phase(self):
+        raise NotImplementedError
 
     def send_message(self, to, msg):
         if to not in self.neighbors and to != self.current_node:

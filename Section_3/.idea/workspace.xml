@@ -3,8 +3,42 @@
   <component name="ChangeListManager">
     <list default="true" id="f53a9fb0-5c01-4ca0-a764-e7a671c13f89" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../Section_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/input_001.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/input_002.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/input_003.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/input_004.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/path_10.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/path_15.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/path_20.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/path_25.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/path_30.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/path_35.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/path_40.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/path_45.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/path_5.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/ring_10.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/ring_15.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/ring_20.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/ring_25.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/ring_30.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/ring_35.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/ring_40.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/ring_45.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/ring_5.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/star_10.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/star_15.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/star_20.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/star_25.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/star_30.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/star_35.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/star_40.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/star_45.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/star_5.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node.py" beforeDir="false" afterPath="$PROJECT_DIR$/node.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/world.py" beforeDir="false" afterPath="$PROJECT_DIR$/world.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +60,30 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/runner.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Section_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner.py" />
+      <option name="PARAMETERS" value="--input ./inputs/complete_45.in --configs ./configs/config_45.txt --stdout --debug" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,5 +95,16 @@
       <updated>1639727091833</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20191c72-497e-4c6a-b738-0c98371c3920" name="Changes" comment="" />
+    <list default="true" id="20191c72-497e-4c6a-b738-0c98371c3920" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Section_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section_3/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section_3/runner.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +41,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/evaluation.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.evaluate">
+  <component name="RunManager" selected="Python.runner">
     <configuration name="evaluate" type="PythonConfigurationType" factoryName="Python">
       <module name="Section_2" />
       <option name="INTERPRETER_OPTIONS" value="" />

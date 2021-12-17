@@ -62,6 +62,7 @@ parser.add_boolean('--network-loops', dest='network_loops', default=True,
                    help='Set to true if we should have auto self loops')
 parser.add_argument('--simulator', dest="simulator", default="process", help='The simulator to simulate the network '
                                                                              'with options: shadow, process')
+parser.add_argument('--configs', dest="config", help='Configuration file for priority of processes ')
 args = parser.parse_args()
 
 
@@ -176,9 +177,10 @@ def run_simulation_process():
             workspace.parent.parent.parent.absolute().joinpath('node.py').__str__(),
             f'--force-node {i}',
             '--pika-host localhost',
-            '--world simulator-only-neighbours',
+            '--world simulator-full-view',
             '--network ' + workspace.joinpath('network.gml').absolute().__str__(),
-            '--simulate-network-parameters'
+            '--simulate-network-parameters',
+            f'--config {args.config}'
         ]), shell=True, stdout=stdout, stderr=stderr)
         processes.append(p)
 
@@ -211,6 +213,7 @@ if __name__ == '__main__':
         num_nodes=graph.number_of_nodes()
     )
 
+    # print(str(args.config))
     if args.run_at_end:
         try:
             run_simulation()

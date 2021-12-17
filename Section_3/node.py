@@ -9,7 +9,8 @@ if __name__ == '__main__':
     log(f'I\'m connected to nodes {world.neighbors}')
     log(f'I have edges {world.edges}')
 
-    world.start_round('0')
+    world.start_first_phase()
+
     try:
         world.listen()
     except KeyboardInterrupt:
