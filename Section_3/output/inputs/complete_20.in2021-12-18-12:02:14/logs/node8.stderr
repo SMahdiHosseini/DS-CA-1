@@ -1,0 +1,25 @@
+[info] Hello from node8
+[info] I'm connected to nodes ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20']
+[info] I have edges [('8', '1'), ('8', '2'), ('8', '3'), ('8', '4'), ('8', '5'), ('8', '6'), ('8', '7'), ('8', '8'), ('8', '9'), ('8', '10'), ('8', '11'), ('8', '12'), ('8', '13'), ('8', '14'), ('8', '15'), ('8', '16'), ('8', '17'), ('8', '18'), ('8', '19'), ('8', '20')]
+[info] first phase started!
+[info] rejected!
+[info] waiting for CRQ messages!
+[info] message from 2: CRQ#2#3#0
+[info] send message to 2: vote#1
+[info] message from 17: CRQ#17#3#0
+[info] I have voted before!
+[info] send message to 17: vote#0
+[info] message from 4: CRQ#4#3#0
+[info] I have voted before!
+[info] send message to 4: vote#0
+[info] message from 10: CRQ#10#3#0
+[info] I have voted before!
+[info] send message to 10: vote#0
+[info] message from 15: CRQ#15#3#0
+[info] I have voted before!
+[info] send message to 15: vote#0
+[info] message from 16: CRQ#16#3#0
+[info] I have voted before!
+[info] send message to 16: vote#0
+[info] message from 2: CAM#2
+[info] third phase started!

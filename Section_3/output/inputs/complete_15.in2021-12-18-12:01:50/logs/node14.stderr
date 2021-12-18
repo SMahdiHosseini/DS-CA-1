@@ -1,0 +1,19 @@
+[info] Hello from node14
+[info] I'm connected to nodes ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15']
+[info] I have edges [('14', '1'), ('14', '2'), ('14', '3'), ('14', '4'), ('14', '5'), ('14', '6'), ('14', '7'), ('14', '8'), ('14', '9'), ('14', '10'), ('14', '11'), ('14', '12'), ('14', '13'), ('14', '14'), ('14', '15')]
+[info] first phase started!
+[info] rejected!
+[info] waiting for CRQ messages!
+[info] message from 8: CRQ#8#3#0
+[info] send message to 8: vote#1
+[info] message from 9: CRQ#9#3#0
+[info] I have voted before!
+[info] send message to 9: vote#0
+[info] message from 15: CRQ#15#3#0
+[info] I have voted before!
+[info] send message to 15: vote#0
+[info] message from 10: CRQ#10#3#0
+[info] I have voted before!
+[info] send message to 10: vote#0
+[info] message from 8: CAM#8
+[info] third phase started!

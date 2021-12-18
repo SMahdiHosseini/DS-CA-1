@@ -1,0 +1,106 @@
+[info] Hello from node2
+[info] I'm connected to nodes ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20']
+[info] I have edges [('2', '1'), ('2', '2'), ('2', '3'), ('2', '4'), ('2', '5'), ('2', '6'), ('2', '7'), ('2', '8'), ('2', '9'), ('2', '10'), ('2', '11'), ('2', '12'), ('2', '13'), ('2', '14'), ('2', '15'), ('2', '16'), ('2', '17'), ('2', '18'), ('2', '19'), ('2', '20')]
+[info] first phase started!
+[info] successfully filtered!
+[info] second phase started!
+[info] send message to 1: CRQ#2#3#0
+[info] send message to 2: CRQ#2#3#0
+[info] send message to 3: CRQ#2#3#0
+[info] send message to 4: CRQ#2#3#0
+[info] send message to 5: CRQ#2#3#0
+[info] send message to 6: CRQ#2#3#0
+[info] send message to 7: CRQ#2#3#0
+[info] send message to 8: CRQ#2#3#0
+[info] send message to 9: CRQ#2#3#0
+[info] send message to 10: CRQ#2#3#0
+[info] send message to 11: CRQ#2#3#0
+[info] send message to 12: CRQ#2#3#0
+[info] send message to 13: CRQ#2#3#0
+[info] send message to 14: CRQ#2#3#0
+[info] send message to 15: CRQ#2#3#0
+[info] send message to 16: CRQ#2#3#0
+[info] send message to 17: CRQ#2#3#0
+[info] send message to 18: CRQ#2#3#0
+[info] send message to 19: CRQ#2#3#0
+[info] send message to 20: CRQ#2#3#0
+[info] message from 1: vote#1
+[info] message from 2: CRQ#2#3#0
+[info] I vote myself
+[info] send message to 2: vote#1
+[info] message from 17: CRQ#17#3#0
+[info] I have voted before!
+[info] send message to 17: vote#0
+[info] message from 3: vote#1
+[info] message from 4: CRQ#4#3#0
+[info] I have voted before!
+[info] send message to 4: vote#0
+[info] message from 6: vote#1
+[info] message from 7: vote#1
+[info] message from 5: vote#1
+[info] message from 8: vote#1
+[info] message from 9: vote#1
+[info] message from 11: vote#1
+[info] message from 10: CRQ#10#3#0
+[info] I have voted before!
+[info] send message to 10: vote#0
+[info] message from 15: CRQ#15#3#0
+[info] I have voted before!
+[info] send message to 15: vote#0
+[info] message from 12: vote#1
+[info] message from 16: CRQ#16#3#0
+[info] I have voted before!
+[info] send message to 16: vote#0
+[info] message from 13: vote#1
+[info] message from 14: vote#1
+[info] message from 18: vote#1
+[info] message from 19: vote#1
+[info] message from 20: vote#1
+[info] message from 2: vote#1
+[info] message from 17: vote#0
+[info] message from 4: vote#0
+[info] message from 10: vote#0
+[info] message from 15: vote#0
+[info] message from 16: vote#0
+[info] send message to 4: CHANGE#15
+[info] send message to 10: CHANGE#15
+[info] send message to 15: CHANGE#15
+[info] send message to 16: CHANGE#15
+[info] send message to 17: CHANGE#15
+[info] message from 4: ACK
+[info] message from 17: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 10: ACK
+[info] message from 4: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 10: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 15: ACK
+[info] message from 15: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 16: ACK
+[info] message from 17: ACK
+[info] send message to 1: CAM#2
+[info] send message to 2: CAM#2
+[info] send message to 3: CAM#2
+[info] send message to 4: CAM#2
+[info] send message to 5: CAM#2
+[info] send message to 6: CAM#2
+[info] send message to 7: CAM#2
+[info] send message to 8: CAM#2
+[info] send message to 9: CAM#2
+[info] send message to 10: CAM#2
+[info] send message to 11: CAM#2
+[info] send message to 12: CAM#2
+[info] send message to 13: CAM#2
+[info] send message to 14: CAM#2
+[info] send message to 15: CAM#2
+[info] send message to 16: CAM#2
+[info] send message to 17: CAM#2
+[info] send message to 18: CAM#2
+[info] send message to 19: CAM#2
+[info] send message to 20: CAM#2
+[info] message from 16: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 2: CAM#2
+[info] third phase started!

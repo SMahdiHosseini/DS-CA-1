@@ -1,0 +1,77 @@
+[info] Hello from node8
+[info] I'm connected to nodes ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15']
+[info] I have edges [('8', '1'), ('8', '2'), ('8', '3'), ('8', '4'), ('8', '5'), ('8', '6'), ('8', '7'), ('8', '8'), ('8', '9'), ('8', '10'), ('8', '11'), ('8', '12'), ('8', '13'), ('8', '14'), ('8', '15')]
+[info] first phase started!
+[info] successfully filtered!
+[info] second phase started!
+[info] send message to 1: CRQ#8#3#0
+[info] send message to 2: CRQ#8#3#0
+[info] send message to 3: CRQ#8#3#0
+[info] send message to 4: CRQ#8#3#0
+[info] send message to 5: CRQ#8#3#0
+[info] send message to 6: CRQ#8#3#0
+[info] send message to 7: CRQ#8#3#0
+[info] send message to 8: CRQ#8#3#0
+[info] send message to 9: CRQ#8#3#0
+[info] send message to 10: CRQ#8#3#0
+[info] send message to 11: CRQ#8#3#0
+[info] send message to 12: CRQ#8#3#0
+[info] send message to 13: CRQ#8#3#0
+[info] send message to 14: CRQ#8#3#0
+[info] send message to 15: CRQ#8#3#0
+[info] message from 1: vote#1
+[info] message from 2: vote#1
+[info] message from 3: vote#1
+[info] message from 4: vote#1
+[info] message from 5: vote#1
+[info] message from 6: vote#1
+[info] message from 7: vote#1
+[info] message from 8: CRQ#8#3#0
+[info] I vote myself
+[info] send message to 8: vote#1
+[info] message from 9: CRQ#9#3#0
+[info] I have voted before!
+[info] send message to 9: vote#0
+[info] message from 11: vote#1
+[info] message from 12: vote#1
+[info] message from 13: vote#1
+[info] message from 15: CRQ#15#3#0
+[info] I have voted before!
+[info] send message to 15: vote#0
+[info] message from 14: vote#1
+[info] message from 10: CRQ#10#3#0
+[info] I have voted before!
+[info] send message to 10: vote#0
+[info] message from 8: vote#1
+[info] message from 9: vote#0
+[info] message from 15: vote#0
+[info] message from 10: vote#0
+[info] send message to 9: CHANGE#12
+[info] send message to 10: CHANGE#12
+[info] send message to 15: CHANGE#12
+[info] message from 9: ACK
+[info] message from 15: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 9: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 10: ACK
+[info] message from 10: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 15: ACK
+[info] send message to 1: CAM#8
+[info] send message to 2: CAM#8
+[info] send message to 3: CAM#8
+[info] send message to 4: CAM#8
+[info] send message to 5: CAM#8
+[info] send message to 6: CAM#8
+[info] send message to 7: CAM#8
+[info] send message to 8: CAM#8
+[info] send message to 9: CAM#8
+[info] send message to 10: CAM#8
+[info] send message to 11: CAM#8
+[info] send message to 12: CAM#8
+[info] send message to 13: CAM#8
+[info] send message to 14: CAM#8
+[info] send message to 15: CAM#8
+[info] message from 8: CAM#8
+[info] third phase started!

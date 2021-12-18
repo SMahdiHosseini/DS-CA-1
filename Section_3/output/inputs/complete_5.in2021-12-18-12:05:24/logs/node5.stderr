@@ -1,0 +1,10 @@
+[info] Hello from node5
+[info] I'm connected to nodes ['1', '2', '3', '4', '5']
+[info] I have edges [('5', '1'), ('5', '2'), ('5', '3'), ('5', '4'), ('5', '5')]
+[info] first phase started!
+[info] rejected!
+[info] waiting for CRQ messages!
+[info] message from 3: CRQ#3#3#0
+[info] send message to 3: vote#1
+[info] message from 3: CAM#3
+[info] third phase started!

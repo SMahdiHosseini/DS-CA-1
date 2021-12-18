@@ -49,6 +49,8 @@ def process_msg(src, msg):
             for n in world.active_sources:
                 if n != world.current_node:
                     world.send_message(n, f'CHANGE#{world.votes}')
+            if len(world.active_sources) == 1:
+                world.send_message(world.current_node, f'ACK')
 
     if splited_msg[0] == "CHANGE":
         handle_change_message(src, int(splited_msg[1]))

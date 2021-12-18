@@ -1,0 +1,183 @@
+[info] Hello from node14
+[info] I'm connected to nodes ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40']
+[info] I have edges [('14', '1'), ('14', '2'), ('14', '3'), ('14', '4'), ('14', '5'), ('14', '6'), ('14', '7'), ('14', '8'), ('14', '9'), ('14', '10'), ('14', '11'), ('14', '12'), ('14', '13'), ('14', '14'), ('14', '15'), ('14', '16'), ('14', '17'), ('14', '18'), ('14', '19'), ('14', '20'), ('14', '21'), ('14', '22'), ('14', '23'), ('14', '24'), ('14', '25'), ('14', '26'), ('14', '27'), ('14', '28'), ('14', '29'), ('14', '30'), ('14', '31'), ('14', '32'), ('14', '33'), ('14', '34'), ('14', '35'), ('14', '36'), ('14', '37'), ('14', '38'), ('14', '39'), ('14', '40')]
+[info] first phase started!
+[info] successfully filtered!
+[info] second phase started!
+[info] send message to 1: CRQ#14#3#0
+[info] send message to 2: CRQ#14#3#0
+[info] send message to 3: CRQ#14#3#0
+[info] send message to 4: CRQ#14#3#0
+[info] send message to 5: CRQ#14#3#0
+[info] send message to 6: CRQ#14#3#0
+[info] send message to 7: CRQ#14#3#0
+[info] send message to 8: CRQ#14#3#0
+[info] send message to 9: CRQ#14#3#0
+[info] send message to 10: CRQ#14#3#0
+[info] send message to 11: CRQ#14#3#0
+[info] send message to 12: CRQ#14#3#0
+[info] send message to 13: CRQ#14#3#0
+[info] send message to 14: CRQ#14#3#0
+[info] send message to 15: CRQ#14#3#0
+[info] send message to 16: CRQ#14#3#0
+[info] send message to 17: CRQ#14#3#0
+[info] send message to 18: CRQ#14#3#0
+[info] send message to 19: CRQ#14#3#0
+[info] send message to 20: CRQ#14#3#0
+[info] send message to 21: CRQ#14#3#0
+[info] send message to 22: CRQ#14#3#0
+[info] send message to 23: CRQ#14#3#0
+[info] send message to 24: CRQ#14#3#0
+[info] send message to 25: CRQ#14#3#0
+[info] send message to 26: CRQ#14#3#0
+[info] send message to 27: CRQ#14#3#0
+[info] send message to 28: CRQ#14#3#0
+[info] send message to 29: CRQ#14#3#0
+[info] send message to 30: CRQ#14#3#0
+[info] send message to 31: CRQ#14#3#0
+[info] send message to 32: CRQ#14#3#0
+[info] send message to 33: CRQ#14#3#0
+[info] send message to 34: CRQ#14#3#0
+[info] send message to 35: CRQ#14#3#0
+[info] send message to 36: CRQ#14#3#0
+[info] send message to 37: CRQ#14#3#0
+[info] send message to 38: CRQ#14#3#0
+[info] send message to 39: CRQ#14#3#0
+[info] send message to 40: CRQ#14#3#0
+[info] message from 1: vote#0
+[info] message from 3: vote#0
+[info] message from 2: CRQ#2#3#0
+[info] send message to 2: vote#0
+[info] message from 13: CRQ#13#3#0
+[info] send message to 13: vote#0
+[info] message from 10: vote#0
+[info] message from 11: vote#0
+[info] message from 8: CRQ#8#3#0
+[info] send message to 8: vote#0
+[info] message from 9: CRQ#9#3#0
+[info] send message to 9: vote#0
+[info] message from 14: CRQ#14#3#0
+[info] I vote myself
+[info] send message to 14: vote#1
+[info] message from 4: CRQ#4#3#0
+[info] I have voted before!
+[info] send message to 4: vote#0
+[info] message from 7: vote#0
+[info] message from 15: vote#0
+[info] message from 17: vote#0
+[info] message from 19: vote#0
+[info] message from 5: CRQ#5#3#0
+[info] I have voted before!
+[info] send message to 5: vote#0
+[info] message from 12: CRQ#12#3#0
+[info] I have voted before!
+[info] send message to 12: vote#0
+[info] message from 27: CRQ#27#3#0
+[info] I have voted before!
+[info] send message to 27: vote#0
+[info] message from 6: CRQ#6#3#0
+[info] I have voted before!
+[info] send message to 6: vote#0
+[info] message from 21: vote#0
+[info] message from 20: vote#0
+[info] message from 22: vote#0
+[info] message from 25: vote#0
+[info] message from 16: CRQ#16#3#0
+[info] I have voted before!
+[info] send message to 16: vote#0
+[info] message from 29: CRQ#29#3#0
+[info] I have voted before!
+[info] send message to 29: vote#0
+[info] message from 23: vote#0
+[info] message from 26: vote#0
+[info] message from 28: vote#0
+[info] message from 18: vote#0
+[info] message from 32: vote#0
+[info] message from 33: vote#0
+[info] message from 34: vote#0
+[info] message from 24: CRQ#24#3#0
+[info] I have voted before!
+[info] send message to 24: vote#0
+[info] message from 40: CRQ#40#3#0
+[info] I have voted before!
+[info] send message to 40: vote#0
+[info] message from 36: vote#0
+[info] message from 31: CRQ#31#3#0
+[info] I have voted before!
+[info] send message to 31: vote#0
+[info] message from 35: vote#0
+[info] message from 37: vote#0
+[info] message from 38: vote#0
+[info] message from 39: vote#0
+[info] message from 13: vote#0
+[info] message from 30: CRQ#30#3#0
+[info] I have voted before!
+[info] send message to 30: vote#0
+[info] message from 2: vote#0
+[info] message from 4: vote#0
+[info] message from 8: vote#0
+[info] message from 14: vote#1
+[info] message from 12: vote#0
+[info] message from 9: vote#0
+[info] message from 27: vote#0
+[info] message from 5: vote#0
+[info] message from 6: vote#0
+[info] message from 29: vote#0
+[info] message from 16: vote#0
+[info] message from 24: vote#0
+[info] message from 31: vote#0
+[info] message from 40: vote#0
+[info] message from 30: vote#0
+[info] send message to 2: CHANGE#1
+[info] send message to 4: CHANGE#1
+[info] send message to 5: CHANGE#1
+[info] send message to 6: CHANGE#1
+[info] send message to 8: CHANGE#1
+[info] send message to 9: CHANGE#1
+[info] send message to 12: CHANGE#1
+[info] send message to 13: CHANGE#1
+[info] send message to 16: CHANGE#1
+[info] send message to 24: CHANGE#1
+[info] send message to 27: CHANGE#1
+[info] send message to 29: CHANGE#1
+[info] send message to 30: CHANGE#1
+[info] send message to 31: CHANGE#1
+[info] send message to 40: CHANGE#1
+[info] message from 4: ACK
+[info] message from 5: ACK
+[info] message from 6: ACK
+[info] message from 13: CHANGE#8
+[info] send message to 13: ACK
+[info] message from 2: CHANGE#18
+[info] send message to 2: ACK
+[info] message from 8: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 4: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 9: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 12: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 27: CHANGE#1
+[info] send message to 27: ACK
+[info] message from 6: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 5: CHANGE#1
+[info] I am have better chance of being a leader!
+[info] message from 29: CHANGE#1
+[info] send message to 29: ACK
+[info] message from 16: CHANGE#1
+[info] send message to 16: ACK
+[info] message from 8: ACK
+[info] message from 40: CHANGE#1
+[info] send message to 40: ACK
+[info] message from 24: CHANGE#1
+[info] send message to 24: ACK
+[info] message from 9: ACK
+[info] message from 12: ACK
+[info] message from 31: CHANGE#1
+[info] send message to 31: ACK
+[info] message from 30: CHANGE#1
+[info] send message to 30: ACK
+[info] message from 2: CAM#2
+[info] third phase started!
