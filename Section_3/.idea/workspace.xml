@@ -3,111 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f53a9fb0-5c01-4ca0-a764-e7a671c13f89" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/config_45.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/config_5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node1.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node1.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node10.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node10.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node11.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node11.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node12.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node12.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node13.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node13.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node14.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node14.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node15.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node15.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node16.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node16.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node17.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node17.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node18.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node18.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node19.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node19.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node2.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node2.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node20.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node20.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node21.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node21.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node22.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node22.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node23.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node23.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node24.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node24.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node25.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node25.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node26.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node26.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node27.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node27.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node28.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node28.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node29.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node29.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node3.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node3.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node30.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node30.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node31.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node31.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node32.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node32.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node33.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node33.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node34.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node34.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node35.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node35.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node36.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node36.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node37.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node37.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node38.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node38.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node39.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node39.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node4.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node4.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node40.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node40.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node41.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node41.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node42.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node42.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node43.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node43.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node44.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node44.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node45.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node45.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node5.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node5.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node6.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node6.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node7.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node7.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node8.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node8.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node9.stderr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/logs/node9.stdout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/network.dot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/network.gml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/network.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/inputs/complete_45.in2021-12-17-23:38:07/shadow.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/results.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/secondPartRunner.sh" beforeDir="false" afterPath="$PROJECT_DIR$/thirdPartRunner.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/evaluation.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Section_1" />
   </component>
   <component name="RunManager" selected="Python.eval">
     <configuration name="create_config" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
